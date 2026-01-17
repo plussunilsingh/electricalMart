@@ -2,7 +2,7 @@ import json
 import os
 
 all_products_path = '/Users/suniltomar/Desktop/workspace/electricalMart/src/data/all_products.json'
-products_path = '/Users/suniltomar/Desktop/workspace/electricalMart/src/data/products.json'
+products_path = '/src/data/products.json'
 
 def merge_products():
     with open(all_products_path, 'r') as f:
