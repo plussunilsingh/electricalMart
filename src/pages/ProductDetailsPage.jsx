@@ -10,8 +10,7 @@ const ProductDetailsPage = () => {
   const { id } = useParams();
   const navigate = useNavigate();
   const { addToCart } = useCart();
-  const [isAdded, setIsAdded] = useState(false);
-  const [quantity, setQuantity] = useState(1);
+  const [activeImage, setActiveImage] = useState(0);
 
   const product = productsData.find((p) => p.id === id);
 
@@ -35,9 +34,11 @@ const ProductDetailsPage = () => {
     window.open(link, '_blank');
   };
 
-  const imageSrc = product.images.length > 0 && product.images[0] 
-    ? product.images[0] 
-    : APP_CONFIG.defaultImageFallback;
+  const productImages = product.images && product.images.length > 0 
+    ? product.images 
+    : [APP_CONFIG.defaultImageFallback];
+
+  const currentImage = productImages[activeImage] || productImages[0];
 
   return (
     <div className="max-w-6xl mx-auto py-8">
@@ -55,20 +56,25 @@ const ProductDetailsPage = () => {
         <div className="space-y-4">
           <div className="aspect-square rounded-2xl overflow-hidden bg-gray-50 border border-gray-100 flex items-center justify-center p-8">
             <img 
-              src={imageSrc} 
+              src={currentImage} 
               alt={product.name} 
-              className="w-full h-full object-contain mix-blend-multiply transition-transform hover:scale-105 duration-500"
+              className="w-full h-full object-contain mix-blend-multiply transition-all duration-500"
             />
           </div>
-          {/* Multiple images fallback/placeholder */}
-          <div className="grid grid-cols-3 gap-4">
-            {[1, 2, 3].map((i) => (
-              <div key={i} className="aspect-square rounded-xl bg-gray-50 border border-gray-100 flex items-center justify-center p-4 cursor-pointer hover:border-primary transition-all">
-                <img src={imageSrc} alt={`${product.name} ${i}`} className="w-full h-full object-contain mix-blend-multiply opacity-50" />
+          {/* Thumbnail Grid */}
+          <div className="grid grid-cols-4 gap-4">
+            {productImages.map((img, index) => (
+              <div 
+                key={index} 
+                onClick={() => setActiveImage(index)}
+                className={`aspect-square rounded-xl bg-gray-50 border-2 flex items-center justify-center p-2 cursor-pointer transition-all ${activeImage === index ? 'border-primary bg-white shadow-sm' : 'border-transparent opacity-60 hover:opacity-100'}`}
+              >
+                <img src={img} alt={`${product.name} ${index + 1}`} className="w-full h-full object-contain mix-blend-multiply" />
               </div>
             ))}
           </div>
         </div>
+
 
         {/* Product Info */}
         <div className="flex flex-col">
