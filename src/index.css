@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #ffcc00;
+  --secondary: #333333;
+  --accent: #ff5722;
+}
+
+body {
+  @apply bg-gray-50 text-secondary antialiased;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.glass-morphism {
+  @apply bg-white bg-opacity-80 backdrop-blur-md border border-white border-opacity-20;
+}
+
+.btn-primary {
+  @apply bg-primary hover:bg-yellow-400 text-secondary font-bold py-2 px-4 rounded transition-all duration-200 transform hover:scale-105 active:scale-95;
+}
+
+.card-premium {
+  @apply bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 border border-gray-100 overflow-hidden;
+}
