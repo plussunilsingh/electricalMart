@@ -1860,5 +1860,13 @@
     "unit": "Nos",
     "category": "Electronic Components",
     "images": []
+  },
+  {
+    "id": "p209",
+    "name": "32A IND.  SOCKET LONG",
+    "price": 120,
+    "unit": "Nos",
+    "category": "General",
+    "images": []
   }
 ]
