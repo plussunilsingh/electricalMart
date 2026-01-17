@@ -1,102 +1,1190 @@
 [
-  {"name":".75mm Cu. Wire Green (Hevells)","price":1560,"unit":"Bdl","imageUrl":""},
-  {"name":"0.5sqmm Cu. Lugs (Dowells make)","price":1.1,"unit":"Nos","imageUrl":""},
-  {"name":"06SQMM ALU. RING TYPE LUGS.","price":2.05,"unit":"Nos","imageUrl":""},
-  {"name":"06Sqmm 4-6 Cu. Lugs (Jainson make)","price":5.09,"unit":"Nos","imageUrl":""},
-  {"name":"06sqmm Cu. Lugs (Comet make)","price":3.99,"unit":"Nos","imageUrl":""},
-  {"name":"06sqmm Cu. Lugs (Dowells make)","price":4.95,"unit":"Pcs","imageUrl":""},
-  {"name":"06sqmm Cu. Lugs (Jainson make)","price":5.09,"unit":"Nos","imageUrl":""},
-  {"name":"06sqmm Cu. Lugs Pin type","price":3.9,"unit":"Nos","imageUrl":""},
-  {"name":"09-25-17-00 3 Way Nylon Stop Cock","price":157,"unit":"Pcs","imageUrl":""},
-  {"name":"1.5 SQMM CU. PIN LUGS Comet","price":2.08,"unit":"Pcs","imageUrl":""},
-  {"name":"1.5 SQMM CU. PIN LUGS-4","price":1.95,"unit":"Nos","imageUrl":""},
-  {"name":"1.5SQMM CU. RING INSU. LUGS M-5","price":1.7,"unit":"Nos","imageUrl":""},
-  {"name":"1.5mm Cu. Wire Red,Blue,Yellow,Black (Hevells )","price":2947,"unit":"Bdl","imageUrl":""},
-  {"name":"1.5x4core wire","price":3200,"unit":"Bdl","imageUrl":""},
-  {"name":"100MM THICK 2.0MM CABLE TIE (1000PC)","price":130,"unit":"Nos","imageUrl":""},
-  {"name":"100W BILL-TECH LED Flood light","price":1200,"unit":"Nos","imageUrl":""},
-  {"name":"100X2.5MM CABLE TIE (WHITE SNAP LOCK)","price":15,"unit":"Pkt.","imageUrl":""},
-  {"name":"10AMP NS FUSE (FTC)","price":42,"unit":"Nos","imageUrl":""},
-  {"name":"10AMP NS FUSE (SIEMENS)","price":160,"unit":"Nos","imageUrl":""},
-  {"name":"10AMP-2P DC MCCB (Schneider )","price":1150,"unit":"Nos","imageUrl":""},
-  {"name":"10SQMM Ring type Cu. lug-6","price":4.93,"unit":"Nos","imageUrl":""},
-  {"name":"10SQMM X3 WIRE (ALUM.)","price":0,"unit":"Mtr","imageUrl":""},
-  {"name":"10W FAZER NEO HAVELLS","price":430,"unit":"Pcs","imageUrl":""},
-  {"name":"10W LED PANEL PPAM","price":220.1,"unit":"Pcs","imageUrl":""},
-  {"name":"10mm Cu. Lugs (Dowells)","price":6.67,"unit":"Pcs","imageUrl":""},
-  {"name":"12 INCH WOODEN HANDLE HACK SAW FRAME","price":95,"unit":"Nos","imageUrl":""},
-  {"name":"12 MM HEAT SHRINKABLE SLEEVE [WOER]","price":24,"unit":"Mtr","imageUrl":""},
-  {"name":"15 KVA DIESEL GENRERATOR 20HP ENGINE,DOUBLE CYLINDER, 3 PHASE, AIR COOL, HANDAL START","price":122000,"unit":"Set","imageUrl":""},
-  {"name":"150 SQMM Alu. Ring Lugs M-12","price":22,"unit":"Nos","imageUrl":""},
-  {"name":"150Sqmm Cu. Lugs (Dowells Make )","price":104.98,"unit":"Pcs","imageUrl":""},
-  {"name":"150X2.5MM CABLE TIE (WHITE SNAP LOCK)","price":22,"unit":"Pkt.","imageUrl":""},
-  {"name":"150X3 MM 3926 CABLE TIE","price":40,"unit":"Pkt.","imageUrl":""},
-  {"name":"150mm Bimetallic lugs","price":219,"unit":"Pcs","imageUrl":""},
-  {"name":"150x3.6mm Cable tie","price":55,"unit":"Pkt.","imageUrl":""},
-  {"name":"15W FAZER NEO HAVELLS","price":510,"unit":"Pcs","imageUrl":""},
-  {"name":"15W FED PANNEL PDLM","price":240.29,"unit":"Pcs","imageUrl":""},
-  {"name":"16 Sqmm 4 core Aluminium Armoured","price":90,"unit":"Mtr","imageUrl":""},
-  {"name":"16 sq mm Cooper PVC Flaxible Wire (Green colour)","price":118,"unit":"Mtr","imageUrl":""},
-  {"name":"16/3 PLUG","price":50,"unit":"Nos","imageUrl":""},
-  {"name":"16/3 SOCKET","price":70,"unit":"Nos","imageUrl":""},
-  {"name":"16A 3PIN IND. CONNECTOR SOCKET-213","price":60,"unit":"Nos","imageUrl":""},
-  {"name":"16A 3PIN IND. PLAG-013","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"16A IND WALL SOCKET LONG 16/5","price":0,"unit":"Pcs","imageUrl":""},
-  {"name":"16A IND. WALL PLUG LONG 16/5","price":0,"unit":"Pcs","imageUrl":""},
-  {"name":"16AMP NS FUSE (FTC)","price":42,"unit":"Nos","imageUrl":""},
-  {"name":"16AMP NS FUSE (SIEMENS)","price":160,"unit":"Nos","imageUrl":""},
-  {"name":"16AMP, 3PIN PLUG [MAKEWELL]","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"16AMP, 3PIN STRAIGHT SOCKET [MAKEWELL","price":80,"unit":"Nos","imageUrl":""},
-  {"name":"16AMP-2P DC MCCB (Schneider)","price":1150,"unit":"Nos","imageUrl":""},
-  {"name":"16SQMM ALU. RING TYPE LUGS","price":3.4,"unit":"Nos","imageUrl":""},
-  {"name":"16SQMM X4 WIRE (ALUMI)","price":0,"unit":"Mtr","imageUrl":""},
-  {"name":"16sqmm lugs Ring type Dowells make","price":7.75,"unit":"Nos","imageUrl":""},
-  {"name":"18W LED BULB 6500K","price":118.41,"unit":"Pcs","imageUrl":""},
-  {"name":"19MM (3/4\") D.C. BRASS GLAND","price":110.68,"unit":"Pcs","imageUrl":""},
-  {"name":"1MM PVC INSULATED LUGS 1008","price":0.45,"unit":"Pcs","imageUrl":""},
-  {"name":"1Phase Extension Board 220V","price":350,"unit":"Pcs","imageUrl":""},
-  {"name":"1mm Cu. Wire, Red.Yellow,Blue,Black,White (Hevells)","price":2008,"unit":"Bdl","imageUrl":""},
-  {"name":"2.5 SQMM CU. PIN INSU. LUGS","price":1.9,"unit":"Nos","imageUrl":""},
-  {"name":"2.5 Sqmm 2 core Cable","price":27.78,"unit":"Mtr","imageUrl":""},
-  {"name":"2.5MM Electrical Insulating Mat, Size:- 1mtr X 10mtr Colour :- Blue ,IS-15652:2006 Make :- Global ,Voltage :-11kV","price":545,"unit":"Mtr","imageUrl":""},
-  {"name":"2.5MM PVC MARKING SLEEVE","price":425,"unit":"Rol","imageUrl":""},
-  {"name":"2.5SQMM CU. INSU. FLATE LUGS","price":1.98,"unit":"Nos","imageUrl":""},
-  {"name":"2.5SQMM CU. INSU. FORK (U) TYPE LUGS.","price":1.7,"unit":"Nos","imageUrl":""},
-  {"name":"2.5SQMM CU. RING INSU. LIGS M-6 (Dowells)","price":3.75,"unit":"Nos","imageUrl":""},
-  {"name":"2.5SQMM RING CU. INSU. LUGS","price":1.9,"unit":"Nos","imageUrl":""},
-  {"name":"2.5SQMM RING CU. LUGS-6","price":2.05,"unit":"Nos","imageUrl":""},
-  {"name":"2.5SQMM RING CU. LUGS-8","price":4.78,"unit":"Pcs","imageUrl":""},
-  {"name":"2.5mm Cu. Wire,Red,Yellow,Blue (Hevells)","price":4680,"unit":"Bdl","imageUrl":""},
-  {"name":"2.5sqmm Cu. lugs (Dowells Make )","price":4.41,"unit":"Pcs","imageUrl":""},
-  {"name":"20 MM HEAT SHRINKABLE SLEEVE [WOER]","price":45,"unit":"Mtr","imageUrl":""},
-  {"name":"20 watt Batten","price":122.64,"unit":"Pcs","imageUrl":""},
-  {"name":"200MM THICK 3.0MM CABLE TIE","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"200x3.6 mm Cable tie","price":40,"unit":"Pkt.","imageUrl":""},
-  {"name":"20mm GI Saddle","price":2.6,"unit":"Pcs","imageUrl":""},
-  {"name":"220V 1ph Board 20A","price":510,"unit":"Pcs","imageUrl":""},
-  {"name":"25-12mm Cu. Thimble","price":27.24,"unit":"Nos","imageUrl":""},
-  {"name":"250MM THICK 3.0MM CABLE TIE","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"25MM (1\") D.C. BRASS GLAND","price":115.62,"unit":"Nos","imageUrl":""},
-  {"name":"25W FORUS LED STREET LIGHT","price":1050,"unit":"Pcs","imageUrl":""},
-  {"name":"28MM (1-1/8\") D.C. BRASS GLAND","price":155.28,"unit":"Nos","imageUrl":""},
-  {"name":"2AMP NS FUSE (FTC )","price":42,"unit":"Nos","imageUrl":""},
-  {"name":"2AMP NS FUSE (SIEMENS)","price":160,"unit":"Nos","imageUrl":""},
-  {"name":"3.2 MM MARKING SLEEVE","price":385,"unit":"Rol","imageUrl":""},
-  {"name":"3.5MM MARKING SLEEVE","price":320,"unit":"Rol","imageUrl":""},
-  {"name":"300MM THICK 3.6MM CABLE TIE","price":80,"unit":"Nos","imageUrl":""},
-  {"name":"300Sqmm Cu. long barr. heavy duty lug","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"300x3.6mm Cable tie","price":70,"unit":"Pkt.","imageUrl":""},
-  {"name":"30W BAJAJ ROBUSTA LED STREET LIGHT","price":780,"unit":"Pcs","imageUrl":""},
-  {"name":"32A 5PIN IND. CONNECTOR SOCKET -225","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"32A 5PIN IND. PLAG -025","price":130,"unit":"Nos","imageUrl":""},
-  {"name":"32A IND. SOCKET LONG","price":120,"unit":"Nos","imageUrl":""},
-  {"name":"32A IND. 32/5 PLUG LONG","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"32AMP NS FUSE (SIEMENS)","price":180,"unit":"Nos","imageUrl":""},
-  {"name":"32AMP, 5PIN PLUG [MAKEWELL]","price":76,"unit":"Nos","imageUrl":""},
-  {"name":"32AMP, 5PIN STRAIGHT SOCKET [MAKEWELL]","price":74,"unit":"Nos","imageUrl":""},
-  {"name":"32AMP-4P AC MCCB (Schneider)","price":1150,"unit":"Nos","imageUrl":""},
-  {"name":"32MM (1.1/4\") D.C. BRASS GLAND","price":205.55,"unit":"Nos","imageUrl":""},
-  {"name":"33kV Cable Joint kit (95 Square mm Single core ) Raychem","price":23230,"unit":"Nos","imageUrl":""},
-  {"name":"33kV Gloves","price":0,"unit":"Nos","imageUrl":""},
-  {"name":"3CX4SQMM COPPER CABLE FLEXIBLE","price":8000,"unit":"Bdl","imageUrl":""}
+  {
+    "name": ".75mm Cu. Wire Green (Hevells)",
+    "price": 1560,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "0.5sqmm Cu. Lugs (Dowells make)",
+    "price": 1.1,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "06SQMM ALU. RING TYPE LUGS.",
+    "price": 2.05,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "06Sqmm 4-6 Cu. Lugs (Jainson make)",
+    "price": 5.09,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "06sqmm Cu. Lugs (Comet make)",
+    "price": 3.99,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "06sqmm Cu. Lugs (Dowells make)",
+    "price": 4.95,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "06sqmm Cu. Lugs (Jainson make)",
+    "price": 5.09,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "06sqmm Cu. Lugs Pin type",
+    "price": 3.9,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "09-25-17-00 3 Way Nylon Stop Cock",
+    "price": 157,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "1.5 SQMM CU. PIN LUGS Comet",
+    "price": 2.08,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "1.5 SQMM CU. PIN LUGS-4",
+    "price": 1.95,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "1.5SQMM CU. RING INSU. LUGS M-5",
+    "price": 1.7,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "1.5mm Cu. Wire Red,Blue,Yellow,Black (Hevells )",
+    "price": 2947,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "1.5x4core wire",
+    "price": 3200,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "100MM THICK 2.0MM CABLE TIE (1000PC)",
+    "price": 130,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "100W BILL-TECH LED Flood light",
+    "price": 1200,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "100X2.5MM CABLE TIE (WHITE SNAP LOCK)",
+    "price": 15,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "10AMP NS FUSE (FTC)",
+    "price": 42,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "10AMP NS FUSE (SIEMENS)",
+    "price": 160,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "10AMP-2P DC MCCB (Schneider )",
+    "price": 1150,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "10SQMM Ring type Cu. lug-6",
+    "price": 4.93,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "10SQMM X3 WIRE (ALUM.)",
+    "price": 0,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "10W FAZER NEO HAVELLS",
+    "price": 430,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "10W LED PANEL PPAM",
+    "price": 220.1,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "10mm Cu. Lugs (Dowells)",
+    "price": 6.67,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "12 INCH WOODEN HANDLE HACK SAW FRAME",
+    "price": 95,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "12 MM HEAT SHRINKABLE SLEEVE [WOER]",
+    "price": 24,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "15 KVA DIESEL GENRERATOR 20HP ENGINE,DOUBLE CYLINDER, 3 PHASE, AIR COOL, HANDAL START",
+    "price": 122000,
+    "unit": "Set",
+    "imageUrl": ""
+  },
+  {
+    "name": "150 SQMM Alu. Ring Lugs M-12",
+    "price": 22,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "150Sqmm Cu. Lugs (Dowells Make )",
+    "price": 104.98,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "150X2.5MM CABLE TIE (WHITE SNAP LOCK)",
+    "price": 22,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "150X3 MM 3926 CABLE TIE",
+    "price": 40,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "150mm Bimetallic lugs",
+    "price": 219,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "150x3.6mm Cable tie",
+    "price": 55,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "15W FAZER NEO HAVELLS",
+    "price": 510,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "15W FED PANNEL PDLM",
+    "price": 240.29,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "16 Sqmm 4 core Aluminium Armoured",
+    "price": 90,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "16 sq mm Cooper PVC Flaxible Wire (Green colour)",
+    "price": 118,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "16/3 PLUG",
+    "price": 50,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16/3 SOCKET",
+    "price": 70,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16A 3PIN IND. CONNECTOR SOCKET-213",
+    "price": 60,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16A 3PIN IND. PLAG-013",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16A IND WALL SOCKET LONG 16/5",
+    "price": 0,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "16A IND. WALL PLUG LONG 16/5",
+    "price": 0,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "16AMP NS FUSE (FTC)",
+    "price": 42,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16AMP NS FUSE (SIEMENS)",
+    "price": 160,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16AMP, 3PIN PLUG [MAKEWELL]",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16AMP, 3PIN STRAIGHT SOCKET [MAKEWELL",
+    "price": 80,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16AMP-2P DC MCCB (Schneider)",
+    "price": 1150,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16SQMM ALU. RING TYPE LUGS",
+    "price": 3.4,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "16SQMM X4 WIRE (ALUMI)",
+    "price": 0,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "16sqmm lugs Ring type Dowells make",
+    "price": 7.75,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "18W LED BULB 6500K",
+    "price": 118.41,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "19MM (3/4\") D.C. BRASS GLAND",
+    "price": 110.68,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "1MM PVC INSULATED LUGS 1008",
+    "price": 0.45,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "1Phase Extension Board 220V",
+    "price": 350,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "1mm Cu. Wire, Red.Yellow,Blue,Black,White (Hevells)",
+    "price": 2008,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5 SQMM CU. PIN INSU. LUGS",
+    "price": 1.9,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5 Sqmm 2 core Cable",
+    "price": 27.78,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5MM Electrical Insulating Mat, Size:- 1mtr X 10mtr Colour :- Blue ,IS-15652:2006 Make :- Global ,Voltage :-11kV",
+    "price": 545,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5MM PVC MARKING SLEEVE",
+    "price": 425,
+    "unit": "Rol",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM CU. INSU. FLATE LUGS",
+    "price": 1.98,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM CU. INSU. FORK (U) TYPE LUGS.",
+    "price": 1.7,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM CU. RING INSU. LIGS M-6 (Dowells)",
+    "price": 3.75,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM RING CU. INSU. LUGS",
+    "price": 1.9,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM RING CU. LUGS-6",
+    "price": 2.05,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5SQMM RING CU. LUGS-8",
+    "price": 4.78,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5mm Cu. Wire,Red,Yellow,Blue (Hevells)",
+    "price": 4680,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "2.5sqmm Cu. lugs (Dowells Make )",
+    "price": 4.41,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "20 MM HEAT SHRINKABLE SLEEVE [WOER]",
+    "price": 45,
+    "unit": "Mtr",
+    "imageUrl": ""
+  },
+  {
+    "name": "20 watt Batten",
+    "price": 122.64,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "200MM THICK 3.0MM CABLE TIE",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "200x3.6 mm Cable tie",
+    "price": 40,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "20mm GI Saddle",
+    "price": 2.6,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "220V 1ph Board 20A",
+    "price": 510,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "25-12mm Cu. Thimble",
+    "price": 27.24,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "250MM THICK 3.0MM CABLE TIE",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "25MM (1\") D.C. BRASS GLAND",
+    "price": 115.62,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "25W FORUS LED STREET LIGHT",
+    "price": 1050,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "28MM (1-1/8\") D.C. BRASS GLAND",
+    "price": 155.28,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2AMP NS FUSE (FTC )",
+    "price": 42,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "2AMP NS FUSE (SIEMENS)",
+    "price": 160,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "3.2 MM MARKING SLEEVE",
+    "price": 385,
+    "unit": "Rol",
+    "imageUrl": ""
+  },
+  {
+    "name": "3.5MM MARKING SLEEVE",
+    "price": 320,
+    "unit": "Rol",
+    "imageUrl": ""
+  },
+  {
+    "name": "300MM THICK 3.6MM CABLE TIE",
+    "price": 80,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "300Sqmm Cu. long barr. heavy duty lug",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "300x3.6mm Cable tie",
+    "price": 70,
+    "unit": "Pkt.",
+    "imageUrl": ""
+  },
+  {
+    "name": "30W BAJAJ ROBUSTA LED STREET LIGHT",
+    "price": 780,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "32A 5PIN IND. CONNECTOR SOCKET -225",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32A 5PIN IND. PLAG -025",
+    "price": 130,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32A IND. SOCKET LONG",
+    "price": 120,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32A IND. 32/5 PLUG LONG",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32AMP NS FUSE (SIEMENS)",
+    "price": 180,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32AMP, 5PIN PLUG [MAKEWELL]",
+    "price": 76,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32AMP, 5PIN STRAIGHT SOCKET [MAKEWELL]",
+    "price": 74,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32AMP-4P AC MCCB (Schneider)",
+    "price": 1150,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "32MM (1.1/4\") D.C. BRASS GLAND",
+    "price": 205.55,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "33kV Cable Joint kit (95 Square mm Single core ) Raychem",
+    "price": 23230,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "33kV Gloves",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "3CX4SQMM COPPER CABLE FLEXIBLE",
+    "price": 8000,
+    "unit": "Bdl",
+    "imageUrl": ""
+  },
+  {
+    "name": "3W LED PVC COB",
+    "price": 125.3,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "4.5 mm Ferrule Marking Sleeve",
+    "price": 530,
+    "unit": "Rol",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "4.5Kg CO2 Fire Extinguisher",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "400MM THICK 3.6MM CABLE TIE",
+    "price": 185,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3161389f63c40b5/61260ee2b0a3a_31_23.jpg?v=1693305175589"
+  },
+  {
+    "name": "450x4.8mm Cable tie",
+    "price": 210,
+    "unit": "Pkt.",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "4AMP NS FUSE (FTC)",
+    "price": 42,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "4AMP NS FUSE (SIEMENS)",
+    "price": 160,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "5 PIN SOCKET SIGNIA HAVELLS",
+    "price": 95.22,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "50W Bill-TECH LED Flood",
+    "price": 720,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "50ml, Truth Glass Syringes For T/F DGA Kit",
+    "price": 3450,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "5W LED CONCEALED DOWN LIGHT",
+    "price": 72.5,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "5W LUMENO HAVELLS",
+    "price": 175,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "63A AC Distribution Box with Socket",
+    "price": 3150,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "63AMP-2P DC MCCB (L&T)",
+    "price": 870,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "63AMP-2P DC RCCB (L&T)",
+    "price": 2550,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "650x7.6mm Cable tie",
+    "price": 620,
+    "unit": "Pkt.",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6AMP NS FUSE (FTC)",
+    "price": 42,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6AMP NS FUSE (SIEMENS)",
+    "price": 160,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6SQMM 3.5 CU. INSU. FORK (U) TYPE LUGS.",
+    "price": 3.72,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6SQMM COOPER FLEXIBLE WIRE GREEN KEI",
+    "price": 65,
+    "unit": "Mtr",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6sqmm pin type thimble Hex make",
+    "price": 4.5,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "6sqmm ring type thimble Hex make",
+    "price": 4.15,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "7/06.3 HOOK UP WIRE",
+    "price": 0,
+    "unit": "Mtr",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "70SQMM COOPER FLEXIBLE PVC WIRE",
+    "price": 385,
+    "unit": "Mtr",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "9 W CONCEALED LED DOWN LIGHT",
+    "price": 105.69,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "95Sqmm Cu. Flexible wire (Polycab make)",
+    "price": 890,
+    "unit": "Mtr",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "95sqmm Cu. Lugs Ring type",
+    "price": 365.52,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "9W LED BULB",
+    "price": 35.66,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "AC Adapter for Max ferrule machine",
+    "price": 3550,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ACC CEMENT",
+    "price": 299.6,
+    "unit": "",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ACETONE",
+    "price": 190,
+    "unit": "Ltr",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALC-SKT 11 Asian Loto Basic Small Lockout Tagout Kit",
+    "price": 300,
+    "unit": "Set",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALLEN KEY SET DE NEERS",
+    "price": 135,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALLEN KEY SET TAPARIA",
+    "price": 160,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALLEN KEY SET TORX REGULAR DN",
+    "price": 260,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALLUMINIUM FLATE TAG",
+    "price": 3.1,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a12612dc6cb7496e/61260ee2b0a3a_12_15.jpg"
+  },
+  {
+    "name": "ALLUMINIUM ROUND TAG",
+    "price": 3.1,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a11612dc6cb7488b/61260ee2b0a3a_11_13.jpg"
+  },
+  {
+    "name": "ALS 120 MM LUGS",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALS RING 240MM LUGS",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 16MM LUGS",
+    "price": 3.25,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 300MM LUGS",
+    "price": 126,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 35MM LUGS",
+    "price": 5.33,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 35MM LUGS PIN",
+    "price": 7.2,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 35MM LUGS PIN Comet",
+    "price": 23.52,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 630SQMM LUGS (Dowells make)",
+    "price": 234.4,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 6sqmm ring type lugs Dowells make",
+    "price": 2.17,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALU. 70MM LUGS",
+    "price": 13.2,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ALUMINIUM BOTTEL (SAMPLE & MATERIAL FOR INDUSTRIALS TEST)",
+    "price": 110,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a961289a91099ff/61260ee2b0a3a_9_4.jpg"
+  },
+  {
+    "name": "ALUMINIUM POLY WINDING WIRE",
+    "price": 0,
+    "unit": "Kg",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "ARC 400 AMP ZD",
+    "price": 23500,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "AUXILLARY CONTACTOR (Schneider)",
+    "price": 2000,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "AVH-14N ENERGY METER",
+    "price": 0,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Al. 2x16MM Cable Pvc insulated",
+    "price": 1900,
+    "unit": "Bdl",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Al. Cable 2Cx06MM pvc insulated",
+    "price": 1350,
+    "unit": "Bdl",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alloy Master Hard V",
+    "price": 2550,
+    "unit": "Box",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 04sqmm Lugs (Dowells Make)",
+    "price": 7.3,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 06sqmm Piin type lugs Comet",
+    "price": 4.03,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 06sqmm Pin type lugs (Dowells Make )",
+    "price": 6.09,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 06sqmm Ring type lugs Comet",
+    "price": 4.23,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 06sqmm ring type lugs (Dowells Make )",
+    "price": 3.82,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 16sqmm Pin typr( Dowells make)",
+    "price": 13.63,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 16sqmm lugs (Dowells make)",
+    "price": 7.7,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 35sqmm Pin type lugs (Dowells make)",
+    "price": 20.7,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 400Sqmm Lugs (Dowells Make)",
+    "price": 107.8,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 70sqmm Pin Type (Dowells Make)",
+    "price": 25.9,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 70sqmm Ring Type (Comet Make)",
+    "price": 12.67,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 70sqmm Ring Type (Dowells Make)",
+    "price": 0,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als 70sqmm Ring Type (Jainson make Make)",
+    "price": 13.58,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als Lugs 150sqmm (Dowells Make)",
+    "price": 25.58,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als Lugs 35sqmm (Dowells Make)",
+    "price": 12,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Als. 95sqmm Lugs",
+    "price": 14.7,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu. 50mm Lugs",
+    "price": 8.2,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu. 6sqmm Pin type lugs Dowells make",
+    "price": 6.51,
+    "unit": "Nos",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu. 95mm Lugs",
+    "price": 16.7,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu.6sqmm Pin Type Lugs",
+    "price": 4.18,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu.6sqmm Ring Type Lugs",
+    "price": 1.57,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Alu.6sqmm Ringh Type Lugs",
+    "price": 0,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Aluminium Extrusion",
+    "price": 0,
+    "unit": "Kg",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Anchor fasner bolt",
+    "price": 25,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Arc 330 AMP",
+    "price": 20800,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "B-ARCNO 10 WELDING",
+    "price": 275.5,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "B. ARC NO. 10",
+    "price": 270.36,
+    "unit": "",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "B. ARC NO. 8 WELDING ROD",
+    "price": 320.1,
+    "unit": "Pac",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BDS 2608577497 (ANNULARCUTTER)",
+    "price": 1900,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BLUE SILICA GEL (CRYSTEL TYPE) SIZE 8-10MM",
+    "price": 235,
+    "unit": "Kg",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BOSCH Hand drill machine 600W",
+    "price": 2950,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BOTTOM HOLDER LF",
+    "price": 25.73,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 01 Hex",
+    "price": 163.2,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 010 Hex",
+    "price": 953.4,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 012 Hex",
+    "price": 1669.2,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 01S Hex",
+    "price": 144,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 02 Hex",
+    "price": 212.4,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 03 Hex",
+    "price": 225.6,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 04 Hex",
+    "price": 230.4,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 05Hex",
+    "price": 358.8,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 06 Hex",
+    "price": 508.8,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 07 Hex",
+    "price": 531.52,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "BRASS GLAND 08 Hex",
+    "price": 665.11,
+    "unit": "Pcs",
+    "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  }
 ]
