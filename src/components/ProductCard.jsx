@@ -48,6 +48,10 @@ const ProductCard = ({ product }) => {
           alt={product.name}
           className="w-full h-full object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500"
           loading="lazy"
+          onError={(e) => {
+            e.target.src = APP_CONFIG.defaultImageFallback;
+            e.target.onerror = null;
+          }}
         />
         <div className="absolute top-3 left-3">
           <BadgeFactory category={product.category} />

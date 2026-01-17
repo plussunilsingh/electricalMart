@@ -11,6 +11,8 @@ const ProductDetailsPage = () => {
   const navigate = useNavigate();
   const { addToCart } = useCart();
   const [activeImage, setActiveImage] = useState(0);
+  const [quantity, setQuantity] = useState(1);
+  const [isAdded, setIsAdded] = useState(false);
 
   const product = productsData.find((p) => p.id === id);
 
@@ -59,6 +61,10 @@ const ProductDetailsPage = () => {
               src={currentImage} 
               alt={product.name} 
               className="w-full h-full object-contain mix-blend-multiply transition-all duration-500"
+              onError={(e) => {
+                e.target.src = APP_CONFIG.defaultImageFallback;
+                e.target.onerror = null;
+              }}
             />
           </div>
           {/* Thumbnail Grid */}
@@ -69,7 +75,15 @@ const ProductDetailsPage = () => {
                 onClick={() => setActiveImage(index)}
                 className={`aspect-square rounded-xl bg-gray-50 border-2 flex items-center justify-center p-2 cursor-pointer transition-all ${activeImage === index ? 'border-primary bg-white shadow-sm' : 'border-transparent opacity-60 hover:opacity-100'}`}
               >
-                <img src={img} alt={`${product.name} ${index + 1}`} className="w-full h-full object-contain mix-blend-multiply" />
+                <img 
+                  src={img} 
+                  alt={`${product.name} ${index + 1}`} 
+                  className="w-full h-full object-contain mix-blend-multiply" 
+                  onError={(e) => {
+                    e.target.src = APP_CONFIG.defaultImageFallback;
+                    e.target.onerror = null;
+                  }}
+                />
               </div>
             ))}
           </div>
