@@ -1186,5 +1186,65 @@
     "price": 665.11,
     "unit": "Pcs",
     "imageUrl": "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+  },
+  {
+    "name": "Crimping tools Chakra",
+    "price": 650,
+    "unit": "Nos",
+    "imageUrl": "https://vyaparwebsiteimages.vypcdn.in/catalogue/location-new.svg?w=32&q=75"
+  },
+  {
+    "name": "Cu. 10Sqmm lugs Ring type (Dowells make) Non insulated",
+    "price": 4.12,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "Cu. 50sqmm lugs (Dowells Make)",
+    "price": 60,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "Cu. lugs 16sqmm ring",
+    "price": 13.02,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "Cutting Wheel 14\" 355X2.5mm Double Net",
+    "price": 102,
+    "unit": "Pcs",
+    "imageUrl": ""
+  },
+  {
+    "name": "D-SHACKLE (6.5 TON)",
+    "price": 450,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "D-SHACLE (09 TON)",
+    "price": 750,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "DB-ANAH-0121 TORQUE WRENCH",
+    "price": 15500,
+    "unit": "Set",
+    "imageUrl": ""
+  },
+  {
+    "name": "DBW-01 (Dowells Make)",
+    "price": 311,
+    "unit": "Nos",
+    "imageUrl": ""
+  },
+  {
+    "name": "DBW-01S (Dowells Make)",
+    "price": 278,
+    "unit": "Nos",
+    "imageUrl": ""
   }
 ]
