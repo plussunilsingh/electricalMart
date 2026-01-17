@@ -117,7 +117,9 @@
     "price": 130,
     "unit": "Nos",
     "category": "Wires & Cables",
-    "images": []
+    "images": [
+      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2761389f63c3d4a/61260ee2b0a3a_27_20.jpg?v=1693304935882"
+    ]
   },
   {
     "id": "p16",
@@ -573,7 +575,9 @@
     "price": 0,
     "unit": "Nos",
     "category": "Wires & Cables",
-    "images": []
+    "images": [
+      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2861389f63c3e2c/61260ee2b0a3a_28_21.jpg?v=1693304937449"
+    ]
   },
   {
     "id": "p73",
@@ -613,7 +617,9 @@
     "price": 0,
     "unit": "Nos",
     "category": "Wires & Cables",
-    "images": []
+    "images": [
+      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2961389f63c3f06/61260ee2b0a3a_29_22.jpg?v=1693305005684"
+    ]
   },
   {
     "id": "p78",
@@ -677,7 +683,10 @@
     "price": 80,
     "unit": "Nos",
     "category": "Wires & Cables",
-    "images": []
+    "images": [
+      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3061389f63c3fdd/61260ee2b0a3a_30_24.jpg?v=1693305534559",
+      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3061389f63c3fdd/61260ee2b0a3a_30_25.jpg?v=1693305534559"
+    ]
   },
   {
     "id": "p86",

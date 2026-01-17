@@ -14,11 +14,18 @@ const HomePage = () => {
   const [searchQuery, setSearchQuery] = useState(initialSearch);
   const [selectedCategory, setSelectedCategory] = useState(initialCategory);
   const [showFilters, setShowFilters] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const itemsPerPage = 12;
 
   useEffect(() => {
     setSearchQuery(queryParams.get('search') || '');
     setSelectedCategory(queryParams.get('category') || '');
+    setCurrentPage(1); // Reset to first page on filter change
   }, [location.search]);
+
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [searchQuery, selectedCategory]);
 
   const filteredProducts = useMemo(() => {
     return productsData.filter(product => {
@@ -27,6 +34,18 @@ const HomePage = () => {
       return matchesSearch && matchesCategory;
     });
   }, [searchQuery, selectedCategory]);
+
+  const totalPages = Math.ceil(filteredProducts.length / itemsPerPage);
+  
+  const paginatedProducts = useMemo(() => {
+    const startIndex = (currentPage - 1) * itemsPerPage;
+    return filteredProducts.slice(startIndex, startIndex + itemsPerPage);
+  }, [filteredProducts, currentPage]);
+
+  const handlePageChange = (page) => {
+    setCurrentPage(page);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   return (
     <div className="space-y-8">
@@ -99,17 +118,72 @@ const HomePage = () => {
         </div>
 
         {/* Product Grid */}
-        <main className="flex-grow">
+        <main className="flex-grow space-y-8">
           {filteredProducts.length > 0 ? (
             <>
               <div className="flex justify-between items-center mb-6">
-                <p className="text-gray-500 font-medium">Showing {filteredProducts.length} items</p>
+                <p className="text-gray-500 font-medium">
+                  Showing {Math.min(filteredProducts.length, itemsPerPage)} of {filteredProducts.length} items
+                </p>
               </div>
               <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
-                {filteredProducts.map(product => (
+                {paginatedProducts.map(product => (
                   <ProductCard key={product.id} product={product} />
                 ))}
               </div>
+
+              {/* Pagination Controls */}
+              {totalPages > 1 && (
+                <div className="flex justify-center items-center space-x-2 mt-12 pb-8">
+                  <button
+                    onClick={() => handlePageChange(currentPage - 1)}
+                    disabled={currentPage === 1}
+                    className={`p-2 rounded-lg border ${currentPage === 1 ? 'text-gray-300 cursor-not-allowed' : 'hover:bg-gray-100 text-secondary'}`}
+                  >
+                    Previous
+                  </button>
+                  
+                  <div className="flex items-center space-x-1">
+                    {[...Array(totalPages)].map((_, i) => {
+                      const pageNum = i + 1;
+                      // Only show first, last, and pages around current
+                      if (
+                        pageNum === 1 || 
+                        pageNum === totalPages || 
+                        (pageNum >= currentPage - 1 && pageNum <= currentPage + 1)
+                      ) {
+                        return (
+                          <button
+                            key={pageNum}
+                            onClick={() => handlePageChange(pageNum)}
+                            className={`w-10 h-10 rounded-lg font-bold transition-all ${
+                              currentPage === pageNum 
+                                ? 'bg-primary text-secondary shadow-md' 
+                                : 'hover:bg-gray-100 text-gray-500'
+                            }`}
+                          >
+                            {pageNum}
+                          </button>
+                        );
+                      } else if (
+                        pageNum === currentPage - 2 || 
+                        pageNum === currentPage + 2
+                      ) {
+                        return <span key={pageNum} className="px-1 text-gray-400">...</span>;
+                      }
+                      return null;
+                    })}
+                  </div>
+
+                  <button
+                    onClick={() => handlePageChange(currentPage + 1)}
+                    disabled={currentPage === totalPages}
+                    className={`p-2 rounded-lg border ${currentPage === totalPages ? 'text-gray-300 cursor-not-allowed' : 'hover:bg-gray-100 text-secondary'}`}
+                  >
+                    Next
+                  </button>
+                </div>
+              )}
             </>
           ) : (
             <div className="text-center py-20 bg-white rounded-3xl border-2 border-dashed border-gray-200">
