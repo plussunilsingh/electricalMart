@@ -54,6 +54,6 @@ def extract_products(file_path):
 
 if __name__ == "__main__":
     products = extract_products('/Users/suniltomar/Desktop/workspace/electricalMart/temp_products.html')
-    with open('/Users/suniltomar/Desktop/workspace/electricalMart/src/data/products.json', 'w') as f:
+    with open('/src/data/products_old.json', 'w') as f:
         json.dump(products, f, indent=2)
     print(f"Successfully extracted {len(products)} products.")

@@ -1,7 +1,7 @@
 import json
 
 all_products_path = '/Users/suniltomar/Desktop/workspace/electricalMart/src/data/all_products.json'
-products_path = '/Users/suniltomar/Desktop/workspace/electricalMart/src/data/products.json'
+products_path = '/src/data/products_old.json'
 catalogue_id = "61260ee2b0a3a"
 base_url = "https://vyapar-catalog.vypcdn.in/"
 
