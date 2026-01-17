@@ -1,1881 +1,2073 @@
 [
   {
-    "id": "p1",
+    "id": "64647bb43f2c9372c74d4dd1",
     "name": ".75mm Cu. Wire Green (Hevells)",
     "price": 1560,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://cpimg.tistatic.com/08585032/b/4/Havells-0-75mm-Wire.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p2",
+    "id": "6295f2e64f8c0914c571ff1c",
     "name": "0.5sqmm Cu. Lugs (Dowells make)",
     "price": 1.1,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/SE/SE/MY-2/dowells-lugs-0-5sqmm-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p3",
+    "id": "653a163100229918eef667b1",
     "name": "06SQMM ALU. RING TYPE LUGS.",
     "price": 2.05,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1807/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p4",
+    "id": "6586fab300229918ee4f6349",
     "name": "06Sqmm 4-6 Cu. Lugs (Jainson make)",
     "price": 5.09,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2685/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p5",
+    "id": "65813d3e00229918eeab6eaf",
     "name": "06sqmm Cu. Lugs (Comet make)",
     "price": 3.99,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2316/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p6",
+    "id": "64462c353f2c937693156191",
     "name": "06sqmm Cu. Lugs (Dowells make)",
     "price": 4.95,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2542/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p7",
+    "id": "6583f71600229918eed6c90a",
     "name": "06sqmm Cu. Lugs (Jainson make)",
     "price": 5.09,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2534/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p8",
+    "id": "65cb0dfd00229918ee098a15",
     "name": "06sqmm Cu. Lugs Pin type",
     "price": 3.9,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2062/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p9",
+    "id": "642680be3f2c932beb19e201",
     "name": "09-25-17-00 3 Way Nylon Stop Cock",
     "price": 157,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2393/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p10",
+    "id": "6616c02a00229918ee358771",
     "name": "1.5 SQMM CU. PIN LUGS Comet",
     "price": 2.08,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/SE/SE/MY-2/comet-pin-lugs-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p11",
+    "id": "651c10fb463c5174821c36f1",
     "name": "1.5 SQMM CU. PIN LUGS-4",
     "price": 1.95,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1435/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p12",
+    "id": "653a39eb00229918ee2265cc",
     "name": "1.5SQMM CU. RING INSU. LUGS M-5",
     "price": 1.7,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1983/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p13",
+    "id": "64647b4b3f2c935d0e05b3a1",
     "name": "1.5mm Cu. Wire Red,Blue,Yellow,Black (Hevells )",
     "price": 2947,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://static3.industrybuying.com/a-wk/images/product/FAM193636_1.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p14",
+    "id": "642d1e023f2c937f57289c32",
     "name": "1.5x4core wire",
     "price": 3200,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1216/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p15",
+    "id": "61389f63dc57cf445b05abde",
     "name": "100MM THICK 2.0MM CABLE TIE (1000PC)",
     "price": 130,
-    "unit": "Nos",
-    "category": "Wires & Cables",
+    "category": "General",
     "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2761389f63c3d4a/61260ee2b0a3a_27_20.jpg?v=1693304935882"
-    ]
+      "https://picsum.photos/seed/2118/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p16",
+    "id": "6816c53e00229918eed6ff45",
     "name": "100W BILL-TECH LED Flood light",
     "price": 1200,
-    "unit": "Nos",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/SE/SE/MY-2/bill-tech-led-flood-light-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p17",
+    "id": "653a1aa200229918eefca69b",
     "name": "100X2.5MM CABLE TIE (WHITE SNAP LOCK)",
     "price": 15,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2334/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p18",
+    "id": "63e20d953f2c93217b30aa21",
     "name": "10AMP NS FUSE (FTC)",
     "price": 42,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/SE/SE/MY-2/ftc-ns-fuse-10a-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p19",
+    "id": "630881be956cdb2d57684aa1",
     "name": "10AMP NS FUSE (SIEMENS)",
     "price": 160,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/SE/SE/MY-2545041/siemens-ns-fuse-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p20",
+    "id": "63e768573f2c9306352c96a2",
     "name": "10AMP-2P DC MCCB (Schneider )",
     "price": 1150,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://m.media-amazon.com/images/I/41-9F3U89OL._SL1000_.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p21",
+    "id": "67cbe7e400229918ee700cac",
     "name": "10SQMM Ring type Cu. lug-6",
     "price": 4.93,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2050/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p22",
+    "id": "621f26e7430f0f643478dc6f",
     "name": "10SQMM X3 WIRE (ALUM.)",
     "price": 0,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1391/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p23",
+    "id": "62f21121956cdb241773d942",
     "name": "10W FAZER NEO HAVELLS",
     "price": 430,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1409/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p24",
+    "id": "68b0515a00229918ee307759",
     "name": "10W LED PANEL PPAM",
     "price": 220.1,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1163/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p25",
+    "id": "65ef488c00229918ee825d03",
     "name": "10mm Cu. Lugs (Dowells)",
     "price": 6.67,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1863/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p26",
+    "id": "6273a60cf38a66275a2a03a7",
     "name": "12 INCH WOODEN HANDLE HACK SAW FRAME",
     "price": 95,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Nl-X-f9wL._SL1500_.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p27",
+    "id": "66a1ea4200229918ee8de75b",
     "name": "12 MM HEAT SHRINKABLE SLEEVE [WOER]",
     "price": 24,
-    "unit": "Mtr",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2395/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p28",
+    "id": "675280e400229918eedcfbe4",
     "name": "15 KVA DIESEL GENRERATOR 20HP ENGINE,DOUBLE CYLINDER, 3 PHASE, AIR COOL, HANDAL START",
     "price": 122000,
-    "unit": "Set",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/5583/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p29",
+    "id": "65f03a8300229918ee5eedd6",
     "name": "150 SQMM Alu. Ring Lugs M-12",
     "price": 22,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1996/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p30",
+    "id": "630de842956cdb6ded525d61",
     "name": "150Sqmm Cu. Lugs (Dowells Make )",
     "price": 104.98,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2558/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p31",
+    "id": "653a1b0000229918eefd276e",
     "name": "150X2.5MM CABLE TIE (WHITE SNAP LOCK)",
     "price": 22,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2339/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p32",
+    "id": "62ff5818956cdb4b657f4169",
     "name": "150X3 MM 3926 CABLE TIE",
     "price": 40,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1352/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p33",
+    "id": "62b97a98956cdb4d330037c1",
     "name": "150mm Bimetallic lugs",
     "price": 219,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1889/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p34",
+    "id": "6244115123871253800bffdf",
     "name": "150x3.6mm Cable tie",
     "price": 55,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1496/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p35",
+    "id": "62f210f5956cdb1b6d655d81",
     "name": "15W FAZER NEO HAVELLS",
     "price": 510,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1414/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p36",
+    "id": "68b051b100229918ee315b14",
     "name": "15W FED PANNEL PDLM",
     "price": 240.29,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1239/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p37",
+    "id": "675c5b4500229918ee28020b",
     "name": "16 Sqmm 4 core Aluminium Armoured",
     "price": 90,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://5.imimg.com/data5/ANDROID/Default/2021/3/YQ/ZB/YH/23282645/product-jpeg-500x500.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p38",
+    "id": "62ecad9b956cdb4bc86fdce1",
     "name": "16 sq mm Cooper PVC Flaxible Wire (Green colour)",
     "price": 118,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/4106/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p39",
+    "id": "65b7804e00229918ee3092a8",
     "name": "16/3 PLUG",
     "price": 50,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/545/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p40",
+    "id": "65b7807800229918ee30d1c5",
     "name": "16/3 SOCKET",
     "price": 70,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/690/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p41",
+    "id": "613f270237afdd1f346f7052",
     "name": "16A 3PIN IND. CONNECTOR SOCKET-213",
     "price": 60,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2178/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p42",
+    "id": "613f26cdd962555c35363d84",
     "name": "16A 3PIN IND. PLAG-013",
     "price": 0,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1296/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p43",
+    "id": "613f3ec9e6df5e665617e8e7",
     "name": "16A IND WALL SOCKET LONG 16/5",
     "price": 0,
-    "unit": "Pcs",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1815/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p44",
+    "id": "613f39fdfc9c340f995c9e26",
     "name": "16A IND. WALL PLUG LONG 16/5",
     "price": 0,
-    "unit": "Pcs",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1716/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p45",
+    "id": "63e20dbb3f2c932a88128051",
     "name": "16AMP NS FUSE (FTC)",
     "price": 42,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1191/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p46",
+    "id": "630881f2956cdb379f5bfea1",
     "name": "16AMP NS FUSE (SIEMENS)",
     "price": 160,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1502/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p47",
+    "id": "675cd9a100229918ee4b4bd5",
     "name": "16AMP, 3PIN PLUG [MAKEWELL]",
     "price": 0,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1837/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p48",
+    "id": "675cd9f000229918ee4b5ca5",
     "name": "16AMP, 3PIN STRAIGHT SOCKET [MAKEWELL",
     "price": 80,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2535/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p49",
+    "id": "63e768573f2c9306352c96a3",
     "name": "16AMP-2P DC MCCB (Schneider)",
     "price": 1150,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2006/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p50",
+    "id": "653a168900229918eef6e3f7",
     "name": "16SQMM ALU. RING TYPE LUGS",
     "price": 3.4,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1762/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p51",
+    "id": "621f25b93869af1d942432f6",
     "name": "16SQMM X4 WIRE (ALUMI)",
     "price": 0,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1425/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p52",
+    "id": "63219581956cdb3ecd1e4612",
     "name": "16sqmm lugs Ring type Dowells make",
     "price": 7.75,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/3146/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p53",
+    "id": "68b0522b00229918ee32ac64",
     "name": "18W LED BULB 6500K",
     "price": 118.41,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://m.media-amazon.com/images/I/51-mYf-z3iL._SL1000_.jpg"
+    ],
+    "description": ""
   },
   {
-    "id": "p54",
+    "id": "66166c7600229918eeb4a60d",
     "name": "19MM (3/4\") D.C. BRASS GLAND",
     "price": 110.68,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1617/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p55",
+    "id": "695fda9eb0a4dfaaf684b2c7",
     "name": "1MM PVC INSULATED LUGS 1008",
     "price": 0.45,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1761/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p56",
+    "id": "683b32e100229918ee138e89",
     "name": "1Phase Extension Board 220V",
     "price": 350,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2321/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p57",
+    "id": "64647c283f2c9309b1216d22",
     "name": "1mm Cu. Wire, Red.Yellow,Blue,Black,White (Hevells)",
     "price": 2008,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/4359/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p58",
+    "id": "651c1007463c513b0107ea01",
     "name": "2.5 SQMM CU. PIN INSU. LUGS",
     "price": 1.9,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1736/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p59",
+    "id": "675c5bc000229918ee289199",
     "name": "2.5 Sqmm 2 core Cable",
     "price": 27.78,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1637/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p60",
+    "id": "62e10088956cdb4935493e81",
     "name": "2.5MM Electrical Insulating Mat, Size:- 1mtr X 10mtr Colour :- Blue ,IS-15652:2006 Make :- Global ,Voltage :-11kV",
     "price": 545,
-    "unit": "Mtr",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/8768/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p61",
+    "id": "647848923f2c9316c027e8b3",
     "name": "2.5MM PVC MARKING SLEEVE",
     "price": 425,
-    "unit": "Rol",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1605/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p62",
+    "id": "653a19a500229918eefb5006",
     "name": "2.5SQMM CU. INSU. FLATE LUGS",
     "price": 1.98,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1837/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p63",
+    "id": "653a15bb00229918eef5c26d",
     "name": "2.5SQMM CU. INSU. FORK (U) TYPE LUGS.",
     "price": 1.7,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2377/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p64",
+    "id": "653a192300229918eefa9da2",
     "name": "2.5SQMM CU. RING INSU. LIGS M-6 (Dowells)",
     "price": 3.75,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2816/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p65",
+    "id": "651c107f463c5157fe4a80c1",
     "name": "2.5SQMM RING CU. INSU. LUGS",
     "price": 1.9,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1777/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p66",
+    "id": "651c1195463c5119e86ad551",
     "name": "2.5SQMM RING CU. LUGS-6",
     "price": 2.05,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1479/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p67",
+    "id": "65b518ed00229918eea4eacd",
     "name": "2.5SQMM RING CU. LUGS-8",
     "price": 4.78,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1481/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p68",
+    "id": "64647c7d3f2c931c6d650351",
     "name": "2.5mm Cu. Wire,Red,Yellow,Blue (Hevells)",
     "price": 4680,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/3347/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p69",
+    "id": "64462bee3f2c93682c14b1e2",
     "name": "2.5sqmm Cu. lugs (Dowells Make )",
     "price": 4.41,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2621/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p70",
+    "id": "66a1ea6900229918ee8e84c8",
     "name": "20 MM HEAT SHRINKABLE SLEEVE [WOER]",
     "price": 45,
-    "unit": "Mtr",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2394/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p71",
+    "id": "667fcc8b00229918ee4e4cb4",
     "name": "20 watt Batten",
     "price": 122.64,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1216/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p72",
+    "id": "61389f63dc57cf445b05abdf",
     "name": "200MM THICK 3.0MM CABLE TIE",
     "price": 0,
-    "unit": "Nos",
-    "category": "Wires & Cables",
+    "category": "General",
     "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2861389f63c3e2c/61260ee2b0a3a_28_21.jpg?v=1693304937449"
-    ]
+      "https://picsum.photos/seed/1667/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p73",
+    "id": "6295fa551f545f4639317719",
     "name": "200x3.6 mm Cable tie",
     "price": 40,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1524/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p74",
+    "id": "66c4635e00229918ee1d40c5",
     "name": "20mm GI Saddle",
     "price": 2.6,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1113/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p75",
+    "id": "66c463c200229918ee1df4ad",
     "name": "220V 1ph Board 20A",
     "price": 510,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1246/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p76",
+    "id": "6513e58e463c51770f7589c1",
     "name": "25-12mm Cu. Thimble",
     "price": 27.24,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1468/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p77",
+    "id": "61389f63dc57cf445b05abe0",
     "name": "250MM THICK 3.0MM CABLE TIE",
     "price": 0,
-    "unit": "Nos",
-    "category": "Wires & Cables",
+    "category": "General",
     "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a2961389f63c3f06/61260ee2b0a3a_29_22.jpg?v=1693305005684"
-    ]
+      "https://picsum.photos/seed/1672/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p78",
+    "id": "65f4283400229918ee4de26c",
     "name": "25MM (1\") D.C. BRASS GLAND",
     "price": 115.62,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1513/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p79",
+    "id": "6961cf49b0a4dfaaf6f50771",
     "name": "25W FORUS LED STREET LIGHT",
     "price": 1050,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1777/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p80",
+    "id": "65f039de00229918ee5da73e",
     "name": "28MM (1-1/8\") D.C. BRASS GLAND",
     "price": 155.28,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1713/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p81",
+    "id": "63e20ce33f2c937b4b7929f2",
     "name": "2AMP NS FUSE (FTC )",
     "price": 42,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1170/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p82",
+    "id": "63088121956cdb09dc3eb3e1",
     "name": "2AMP NS FUSE (SIEMENS)",
     "price": 160,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1449/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p83",
+    "id": "615ac2a7be8d757e91737212",
     "name": "3.2 MM MARKING SLEEVE",
     "price": 385,
-    "unit": "Rol",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1370/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p84",
+    "id": "67c3ac0500229918ee6ec41f",
     "name": "3.5MM MARKING SLEEVE",
     "price": 320,
-    "unit": "Rol",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1341/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p85",
+    "id": "61389f63dc57cf445b05abe1",
     "name": "300MM THICK 3.6MM CABLE TIE",
     "price": 80,
-    "unit": "Nos",
-    "category": "Wires & Cables",
+    "category": "Cable nylon tie",
     "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3061389f63c3fdd/61260ee2b0a3a_30_24.jpg?v=1693305534559",
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3061389f63c3fdd/61260ee2b0a3a_30_25.jpg?v=1693305534559"
-    ]
+      "https://picsum.photos/seed/1674/800/600"
+    ],
+    "description": "Nylon Cable Tie Length 300x3.6mm"
   },
   {
-    "id": "p86",
+    "id": "618baf83b7e1e4527d1c3e22",
     "name": "300Sqmm Cu. long barr. heavy duty lug",
     "price": 0,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/3207/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p87",
+    "id": "6295fac16f7f2a6dd042d41a",
     "name": "300x3.6mm Cable tie",
     "price": 70,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1493/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p88",
+    "id": "6961cf1cb0a4dfaaf6f4c720",
     "name": "30W BAJAJ ROBUSTA LED STREET LIGHT",
     "price": 780,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2294/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p89",
+    "id": "613f269fc1b59106a61911ed",
     "name": "32A 5PIN IND. CONNECTOR SOCKET -225",
     "price": 0,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2213/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p90",
+    "id": "613f2654bdecaa5a0a7d88ab",
     "name": "32A 5PIN IND. PLAG -025",
     "price": 130,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p91",
-    "name": "32A IND. SOCKET LONG",
-    "price": 120,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p92",
-    "name": "32A IND. 32/5 PLUG LONG",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p93",
-    "name": "32AMP NS FUSE (SIEMENS)",
-    "price": 180,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p94",
-    "name": "32AMP, 5PIN PLUG [MAKEWELL]",
-    "price": 76,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p95",
-    "name": "32AMP, 5PIN STRAIGHT SOCKET [MAKEWELL]",
-    "price": 74,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p96",
-    "name": "32AMP-4P AC MCCB (Schneider)",
-    "price": 1150,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": []
-  },
-  {
-    "id": "p97",
-    "name": "32MM (1.1/4\") D.C. BRASS GLAND",
-    "price": 205.55,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": []
-  },
-  {
-    "id": "p98",
-    "name": "33kV Cable Joint kit (95 Square mm Single core ) Raychem",
-    "price": 23230,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
-  },
-  {
-    "id": "p99",
-    "name": "33kV Gloves",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Safety Equipment",
-    "images": []
-  },
-  {
-    "id": "p100",
-    "name": "3CX4SQMM COPPER CABLE FLEXIBLE",
-    "price": 8000,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": []
-  },
-  {
-    "id": "p101",
-    "name": "3W LED PVC COB",
-    "price": 125.3,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p102",
-    "name": "4.5 mm Ferrule Marking Sleeve",
-    "price": 530,
-    "unit": "Rol",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p103",
-    "name": "4.5Kg CO2 Fire Extinguisher",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Safety Equipment",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p104",
-    "name": "400MM THICK 3.6MM CABLE TIE",
-    "price": 185,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3161389f63c40b5/61260ee2b0a3a_31_23.jpg?v=1693305175589"
-    ]
-  },
-  {
-    "id": "p105",
-    "name": "450x4.8mm Cable tie",
-    "price": 210,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p106",
-    "name": "4AMP NS FUSE (FTC)",
-    "price": 42,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p107",
-    "name": "4AMP NS FUSE (SIEMENS)",
-    "price": 160,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p108",
-    "name": "5 PIN SOCKET SIGNIA HAVELLS",
-    "price": 95.22,
-    "unit": "Pcs",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p109",
-    "name": "50W Bill-TECH LED Flood",
-    "price": 720,
-    "unit": "Nos",
-    "category": "Lighting",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p110",
-    "name": "50ml, Truth Glass Syringes For T/F DGA Kit",
-    "price": 3450,
-    "unit": "Nos",
-    "category": "Others",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p111",
-    "name": "5W LED CONCEALED DOWN LIGHT",
-    "price": 72.5,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p112",
-    "name": "5W LUMENO HAVELLS",
-    "price": 175,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p113",
-    "name": "63A AC Distribution Box with Socket",
-    "price": 3150,
-    "unit": "Pcs",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p114",
-    "name": "63AMP-2P DC MCCB (L&T)",
-    "price": 870,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p115",
-    "name": "63AMP-2P DC RCCB (L&T)",
-    "price": 2550,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p116",
-    "name": "650x7.6mm Cable tie",
-    "price": 620,
-    "unit": "Pkt.",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p117",
-    "name": "6AMP NS FUSE (FTC)",
-    "price": 42,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p118",
-    "name": "6AMP NS FUSE (SIEMENS)",
-    "price": 160,
-    "unit": "Nos",
-    "category": "Electrical Items",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p119",
-    "name": "6SQMM 3.5 CU. INSU. FORK (U) TYPE LUGS.",
-    "price": 3.72,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p120",
-    "name": "6SQMM COOPER FLEXIBLE WIRE GREEN KEI",
-    "price": 65,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p121",
-    "name": "6sqmm pin type thimble Hex make",
-    "price": 4.5,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p122",
-    "name": "6sqmm ring type thimble Hex make",
-    "price": 4.15,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p123",
-    "name": "7/06.3 HOOK UP WIRE",
-    "price": 0,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p124",
-    "name": "70SQMM COOPER FLEXIBLE PVC WIRE",
-    "price": 385,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p125",
-    "name": "9 W CONCEALED LED DOWN LIGHT",
-    "price": 105.69,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p126",
-    "name": "95Sqmm Cu. Flexible wire (Polycab make)",
-    "price": 890,
-    "unit": "Mtr",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p127",
-    "name": "95sqmm Cu. Lugs Ring type",
-    "price": 365.52,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p128",
-    "name": "9W LED BULB",
-    "price": 35.66,
-    "unit": "Pcs",
-    "category": "Lighting",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p129",
-    "name": "AC Adapter for Max ferrule machine",
-    "price": 3550,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p130",
-    "name": "ACC CEMENT",
-    "price": 299.6,
-    "unit": "",
-    "category": "Others",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p131",
-    "name": "ACETONE",
-    "price": 190,
-    "unit": "Ltr",
-    "category": "Others",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p132",
-    "name": "ALC-SKT 11 Asian Loto Basic Small Lockout Tagout Kit",
-    "price": 300,
-    "unit": "Set",
-    "category": "Safety Equipment",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p133",
-    "name": "ALLEN KEY SET DE NEERS",
-    "price": 135,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p134",
-    "name": "ALLEN KEY SET TAPARIA",
-    "price": 160,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p135",
-    "name": "ALLEN KEY SET TORX REGULAR DN",
-    "price": 260,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p136",
-    "name": "ALLUMINIUM FLATE TAG",
-    "price": 3.1,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a12612dc6cb7496e/61260ee2b0a3a_12_15.jpg"
-    ]
-  },
-  {
-    "id": "p137",
-    "name": "ALLUMINIUM ROUND TAG",
-    "price": 3.1,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a11612dc6cb7488b/61260ee2b0a3a_11_13.jpg"
-    ]
-  },
-  {
-    "id": "p138",
-    "name": "ALS 120 MM LUGS",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p139",
-    "name": "ALS RING 240MM LUGS",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p140",
-    "name": "ALU. 16MM LUGS",
-    "price": 3.25,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p141",
-    "name": "ALU. 300MM LUGS",
-    "price": 126,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p142",
-    "name": "ALU. 35MM LUGS",
-    "price": 5.33,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p143",
-    "name": "ALU. 35MM LUGS PIN",
-    "price": 7.2,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p144",
-    "name": "ALU. 35MM LUGS PIN Comet",
-    "price": 23.52,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p145",
-    "name": "ALU. 630SQMM LUGS (Dowells make)",
-    "price": 234.4,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p146",
-    "name": "ALU. 6sqmm ring type lugs Dowells make",
-    "price": 2.17,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p147",
-    "name": "ALU. 70MM LUGS",
-    "price": 13.2,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p148",
-    "name": "ALUMINIUM BOTTEL (SAMPLE & MATERIAL FOR INDUSTRIALS TEST)",
-    "price": 110,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a961289a91099ff/61260ee2b0a3a_9_4.jpg"
-    ]
-  },
-  {
-    "id": "p149",
-    "name": "ALUMINIUM POLY WINDING WIRE",
-    "price": 0,
-    "unit": "Kg",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p150",
-    "name": "ARC 400 AMP ZD",
-    "price": 23500,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p151",
-    "name": "AUXILLARY CONTACTOR (Schneider)",
-    "price": 2000,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p152",
-    "name": "AVH-14N ENERGY METER",
-    "price": 0,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p153",
-    "name": "Al. 2x16MM Cable Pvc insulated",
-    "price": 1900,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p154",
-    "name": "Al. Cable 2Cx06MM pvc insulated",
-    "price": 1350,
-    "unit": "Bdl",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p155",
-    "name": "Alloy Master Hard V",
-    "price": 2550,
-    "unit": "Box",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p156",
-    "name": "Als 04sqmm Lugs (Dowells Make)",
-    "price": 7.3,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p157",
-    "name": "Als 06sqmm Piin type lugs Comet",
-    "price": 4.03,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p158",
-    "name": "Als 06sqmm Pin type lugs (Dowells Make )",
-    "price": 6.09,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p159",
-    "name": "Als 06sqmm Ring type lugs Comet",
-    "price": 4.23,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p160",
-    "name": "Als 06sqmm ring type lugs (Dowells Make )",
-    "price": 3.82,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p161",
-    "name": "Als 16sqmm Pin typr( Dowells make)",
-    "price": 13.63,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p162",
-    "name": "Als 16sqmm lugs (Dowells make)",
-    "price": 7.7,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p163",
-    "name": "Als 35sqmm Pin type lugs (Dowells make)",
-    "price": 20.7,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p164",
-    "name": "Als 400Sqmm Lugs (Dowells Make)",
-    "price": 107.8,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p165",
-    "name": "Als 70sqmm Pin Type (Dowells Make)",
-    "price": 25.9,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p166",
-    "name": "Als 70sqmm Ring Type (Comet Make)",
-    "price": 12.67,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p167",
-    "name": "Als 70sqmm Ring Type (Dowells Make)",
-    "price": 0,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p168",
-    "name": "Als 70sqmm Ring Type (Jainson make Make)",
-    "price": 13.58,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p169",
-    "name": "Als Lugs 150sqmm (Dowells Make)",
-    "price": 25.58,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p170",
-    "name": "Als Lugs 35sqmm (Dowells Make)",
-    "price": 12,
-    "unit": "Nos",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p171",
-    "name": "Als. 95sqmm Lugs",
-    "price": 14.7,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p172",
-    "name": "Alu. 50mm Lugs",
-    "price": 8.2,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p173",
-    "name": "Alu. 6sqmm Pin type lugs Dowells make",
-    "price": 6.51,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p174",
-    "name": "Alu. 95mm Lugs",
-    "price": 16.7,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p175",
-    "name": "Alu.6sqmm Pin Type Lugs",
-    "price": 4.18,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p176",
-    "name": "Alu.6sqmm Ring Type Lugs",
-    "price": 1.57,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p177",
-    "name": "Alu.6sqmm Ringh Type Lugs",
-    "price": 0,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
+    "category": "General",
     "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p178",
-    "name": "Aluminium Extrusion",
-    "price": 0,
-    "unit": "Kg",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p179",
-    "name": "Anchor fasner bolt",
-    "price": 25,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p180",
-    "name": "Arc 330 AMP",
-    "price": 20800,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p181",
-    "name": "B-ARCNO 10 WELDING",
-    "price": 275.5,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p182",
-    "name": "B. ARC NO. 10",
-    "price": 270.36,
-    "unit": "",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p183",
-    "name": "B. ARC NO. 8 WELDING ROD",
-    "price": 320.1,
-    "unit": "Pac",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p184",
-    "name": "BDS 2608577497 (ANNULARCUTTER)",
-    "price": 1900,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p185",
-    "name": "BLUE SILICA GEL (CRYSTEL TYPE) SIZE 8-10MM",
-    "price": 235,
-    "unit": "Kg",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p186",
-    "name": "BOSCH Hand drill machine 600W",
-    "price": 2950,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p187",
-    "name": "BOTTOM HOLDER LF",
-    "price": 25.73,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p188",
-    "name": "BRASS GLAND 01 Hex",
-    "price": 163.2,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p189",
-    "name": "BRASS GLAND 010 Hex",
-    "price": 953.4,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p190",
-    "name": "BRASS GLAND 012 Hex",
-    "price": 1669.2,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p191",
-    "name": "BRASS GLAND 01S Hex",
-    "price": 144,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p192",
-    "name": "BRASS GLAND 02 Hex",
-    "price": 212.4,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p193",
-    "name": "BRASS GLAND 03 Hex",
-    "price": 225.6,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p194",
-    "name": "BRASS GLAND 04 Hex",
-    "price": 230.4,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p195",
-    "name": "BRASS GLAND 05Hex",
-    "price": 358.8,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p196",
-    "name": "BRASS GLAND 06 Hex",
-    "price": 508.8,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p197",
-    "name": "BRASS GLAND 07 Hex",
-    "price": 531.52,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p198",
-    "name": "BRASS GLAND 08 Hex",
-    "price": 665.11,
-    "unit": "Pcs",
-    "category": "Installation Material",
-    "images": [
-      "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
-    ]
-  },
-  {
-    "id": "p199",
-    "name": "Crimping tools Chakra",
-    "price": 650,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": [
-      "https://vyaparwebsiteimages.vypcdn.in/catalogue/location-new.svg?w=32&q=75"
-    ]
-  },
-  {
-    "id": "p200",
-    "name": "Cu. 10Sqmm lugs Ring type (Dowells make) Non insulated",
-    "price": 4.12,
-    "unit": "Pcs",
-    "category": "Wires & Cables",
-    "images": []
-  },
-  {
-    "id": "p201",
-    "name": "Cu. 50sqmm lugs (Dowells Make)",
-    "price": 60,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
-  },
-  {
-    "id": "p202",
-    "name": "Cu. lugs 16sqmm ring",
-    "price": 13.02,
-    "unit": "Nos",
-    "category": "Wires & Cables",
-    "images": []
-  },
-  {
-    "id": "p203",
-    "name": "Cutting Wheel 14\" 355X2.5mm Double Net",
-    "price": 102,
-    "unit": "Pcs",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p204",
-    "name": "D-SHACKLE (6.5 TON)",
-    "price": 450,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p205",
-    "name": "D-SHACLE (09 TON)",
-    "price": 750,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p206",
-    "name": "DB-ANAH-0121 TORQUE WRENCH",
-    "price": 15500,
-    "unit": "Set",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p207",
-    "name": "DBW-01 (Dowells Make)",
-    "price": 311,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
-  },
-  {
-    "id": "p208",
-    "name": "DBW-01S (Dowells Make)",
-    "price": 278,
-    "unit": "Nos",
-    "category": "Electronic Components",
-    "images": []
+      "https://picsum.photos/seed/1331/800/600"
+    ],
+    "description": ""
   },
   {
-    "id": "p209",
+    "id": "613f3946c4af102312471fd3",
     "name": "32A IND.  SOCKET LONG",
     "price": 120,
-    "unit": "Nos",
     "category": "General",
-    "images": []
-  }
+    "images": [
+      "https://picsum.photos/seed/1320/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "613f3ec9e6df5e665617e8e6",
+    "name": "32A IND. 32/5 PLUG LONG",
+    "price": 0,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1376/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "63088239956cdb47c26e5801",
+    "name": "32AMP NS FUSE (SIEMENS)",
+    "price": 180,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1500/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "675cda4200229918ee4b6ce9",
+    "name": "32AMP, 5PIN PLUG [MAKEWELL]",
+    "price": 76,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1837/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "675cda7b00229918ee4b796d",
+    "name": "32AMP, 5PIN STRAIGHT SOCKET [MAKEWELL]",
+    "price": 74,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2628/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "63e768573f2c9306352c96a4",
+    "name": "32AMP-4P AC MCCB (Schneider)",
+    "price": 1150,
+    "category": "General",
+    "images": [
+      "https://m.media-amazon.com/images/I/41-9F3U89OL._SL1010_.jpg"
+    ],
+    "description": ""
+  },
+  {
+    "id": "65f428b800229918ee4ed99d",
+    "name": "32MM (1.1/4\") D.C. BRASS GLAND",
+    "price": 205.55,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/1705/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6804c37000229918ee489dab",
+    "name": "33kV Cable Joint kit (95 Square mm Single core ) Raychem",
+    "price": 23230,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/4712/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "613b5447a3a8ae2fab69cfc0",
+    "name": "33kV Gloves",
+    "price": 0,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/951/800/600"
+    ],
+    "description": ""
+  },
+  {
+    "id": "6777c25100229918ee308196",
+    "name": "3CX4SQMM COPPER CABLE FLEXIBLE",
+    "price": 8000,
+    "category": "General",
+    "images": [
+      "https://picsum.photos/seed/2059/800/600"
+    ],
+    "description": ""
+  },
+    {
+        "id": "p101",
+        "name": "3W LED PVC COB",
+        "price": 125.3,
+        "unit": "Pcs",
+        "category": "Lighting",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p102",
+        "name": "4.5 mm Ferrule Marking Sleeve",
+        "price": 530,
+        "unit": "Rol",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p103",
+        "name": "4.5Kg CO2 Fire Extinguisher",
+        "price": 0,
+        "unit": "Nos",
+        "category": "Safety Equipment",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p104",
+        "name": "400MM THICK 3.6MM CABLE TIE",
+        "price": 185,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a3161389f63c40b5/61260ee2b0a3a_31_23.jpg?v=1693305175589"
+        ]
+    },
+    {
+        "id": "p105",
+        "name": "450x4.8mm Cable tie",
+        "price": 210,
+        "unit": "Pkt.",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p106",
+        "name": "4AMP NS FUSE (FTC)",
+        "price": 42,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p107",
+        "name": "4AMP NS FUSE (SIEMENS)",
+        "price": 160,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p108",
+        "name": "5 PIN SOCKET SIGNIA HAVELLS",
+        "price": 95.22,
+        "unit": "Pcs",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p109",
+        "name": "50W Bill-TECH LED Flood",
+        "price": 720,
+        "unit": "Nos",
+        "category": "Lighting",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p110",
+        "name": "50ml, Truth Glass Syringes For T/F DGA Kit",
+        "price": 3450,
+        "unit": "Nos",
+        "category": "Others",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p111",
+        "name": "5W LED CONCEALED DOWN LIGHT",
+        "price": 72.5,
+        "unit": "Pcs",
+        "category": "Lighting",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p112",
+        "name": "5W LUMENO HAVELLS",
+        "price": 175,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p113",
+        "name": "63A AC Distribution Box with Socket",
+        "price": 3150,
+        "unit": "Pcs",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p114",
+        "name": "63AMP-2P DC MCCB (L&T)",
+        "price": 870,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p115",
+        "name": "63AMP-2P DC RCCB (L&T)",
+        "price": 2550,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p116",
+        "name": "650x7.6mm Cable tie",
+        "price": 620,
+        "unit": "Pkt.",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p117",
+        "name": "6AMP NS FUSE (FTC)",
+        "price": 42,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p118",
+        "name": "6AMP NS FUSE (SIEMENS)",
+        "price": 160,
+        "unit": "Nos",
+        "category": "Electrical Items",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p119",
+        "name": "6SQMM 3.5 CU. INSU. FORK (U) TYPE LUGS.",
+        "price": 3.72,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p120",
+        "name": "6SQMM COOPER FLEXIBLE WIRE GREEN KEI",
+        "price": 65,
+        "unit": "Mtr",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p121",
+        "name": "6sqmm pin type thimble Hex make",
+        "price": 4.5,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p122",
+        "name": "6sqmm ring type thimble Hex make",
+        "price": 4.15,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p123",
+        "name": "7/06.3 HOOK UP WIRE",
+        "price": 0,
+        "unit": "Mtr",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p124",
+        "name": "70SQMM COOPER FLEXIBLE PVC WIRE",
+        "price": 385,
+        "unit": "Mtr",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p125",
+        "name": "9 W CONCEALED LED DOWN LIGHT",
+        "price": 105.69,
+        "unit": "Pcs",
+        "category": "Lighting",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p126",
+        "name": "95Sqmm Cu. Flexible wire (Polycab make)",
+        "price": 890,
+        "unit": "Mtr",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p127",
+        "name": "95sqmm Cu. Lugs Ring type",
+        "price": 365.52,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p128",
+        "name": "9W LED BULB",
+        "price": 35.66,
+        "unit": "Pcs",
+        "category": "Lighting",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p129",
+        "name": "AC Adapter for Max ferrule machine",
+        "price": 3550,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p130",
+        "name": "ACC CEMENT",
+        "price": 299.6,
+        "unit": "",
+        "category": "Others",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p131",
+        "name": "ACETONE",
+        "price": 190,
+        "unit": "Ltr",
+        "category": "Others",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p132",
+        "name": "ALC-SKT 11 Asian Loto Basic Small Lockout Tagout Kit",
+        "price": 300,
+        "unit": "Set",
+        "category": "Safety Equipment",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p133",
+        "name": "ALLEN KEY SET DE NEERS",
+        "price": 135,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p134",
+        "name": "ALLEN KEY SET TAPARIA",
+        "price": 160,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p135",
+        "name": "ALLEN KEY SET TORX REGULAR DN",
+        "price": 260,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p136",
+        "name": "ALLUMINIUM FLATE TAG",
+        "price": 3.1,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a12612dc6cb7496e/61260ee2b0a3a_12_15.jpg"
+        ]
+    },
+    {
+        "id": "p137",
+        "name": "ALLUMINIUM ROUND TAG",
+        "price": 3.1,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a11612dc6cb7488b/61260ee2b0a3a_11_13.jpg"
+        ]
+    },
+    {
+        "id": "p138",
+        "name": "ALS 120 MM LUGS",
+        "price": 0,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p139",
+        "name": "ALS RING 240MM LUGS",
+        "price": 0,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p140",
+        "name": "ALU. 16MM LUGS",
+        "price": 3.25,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p141",
+        "name": "ALU. 300MM LUGS",
+        "price": 126,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p142",
+        "name": "ALU. 35MM LUGS",
+        "price": 5.33,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p143",
+        "name": "ALU. 35MM LUGS PIN",
+        "price": 7.2,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p144",
+        "name": "ALU. 35MM LUGS PIN Comet",
+        "price": 23.52,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p145",
+        "name": "ALU. 630SQMM LUGS (Dowells make)",
+        "price": 234.4,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p146",
+        "name": "ALU. 6sqmm ring type lugs Dowells make",
+        "price": 2.17,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p147",
+        "name": "ALU. 70MM LUGS",
+        "price": 13.2,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p148",
+        "name": "ALUMINIUM BOTTEL (SAMPLE & MATERIAL FOR INDUSTRIALS TEST)",
+        "price": 110,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/61260ee2b0a3a/61260ee2b0a3a961289a91099ff/61260ee2b0a3a_9_4.jpg"
+        ]
+    },
+    {
+        "id": "p149",
+        "name": "ALUMINIUM POLY WINDING WIRE",
+        "price": 0,
+        "unit": "Kg",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p150",
+        "name": "ARC 400 AMP ZD",
+        "price": 23500,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p151",
+        "name": "AUXILLARY CONTACTOR (Schneider)",
+        "price": 2000,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p152",
+        "name": "AVH-14N ENERGY METER",
+        "price": 0,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p153",
+        "name": "Al. 2x16MM Cable Pvc insulated",
+        "price": 1900,
+        "unit": "Bdl",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p154",
+        "name": "Al. Cable 2Cx06MM pvc insulated",
+        "price": 1350,
+        "unit": "Bdl",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p155",
+        "name": "Alloy Master Hard V",
+        "price": 2550,
+        "unit": "Box",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p156",
+        "name": "Als 04sqmm Lugs (Dowells Make)",
+        "price": 7.3,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p157",
+        "name": "Als 06sqmm Piin type lugs Comet",
+        "price": 4.03,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p158",
+        "name": "Als 06sqmm Pin type lugs (Dowells Make )",
+        "price": 6.09,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p159",
+        "name": "Als 06sqmm Ring type lugs Comet",
+        "price": 4.23,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p160",
+        "name": "Als 06sqmm ring type lugs (Dowells Make )",
+        "price": 3.82,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p161",
+        "name": "Als 16sqmm Pin typr( Dowells make)",
+        "price": 13.63,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p162",
+        "name": "Als 16sqmm lugs (Dowells make)",
+        "price": 7.7,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p163",
+        "name": "Als 35sqmm Pin type lugs (Dowells make)",
+        "price": 20.7,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p164",
+        "name": "Als 400Sqmm Lugs (Dowells Make)",
+        "price": 107.8,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p165",
+        "name": "Als 70sqmm Pin Type (Dowells Make)",
+        "price": 25.9,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p166",
+        "name": "Als 70sqmm Ring Type (Comet Make)",
+        "price": 12.67,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p167",
+        "name": "Als 70sqmm Ring Type (Dowells Make)",
+        "price": 0,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p168",
+        "name": "Als 70sqmm Ring Type (Jainson make Make)",
+        "price": 13.58,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p169",
+        "name": "Als Lugs 150sqmm (Dowells Make)",
+        "price": 25.58,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p170",
+        "name": "Als Lugs 35sqmm (Dowells Make)",
+        "price": 12,
+        "unit": "Nos",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p171",
+        "name": "Als. 95sqmm Lugs",
+        "price": 14.7,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p172",
+        "name": "Alu. 50mm Lugs",
+        "price": 8.2,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p173",
+        "name": "Alu. 6sqmm Pin type lugs Dowells make",
+        "price": 6.51,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p174",
+        "name": "Alu. 95mm Lugs",
+        "price": 16.7,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p175",
+        "name": "Alu.6sqmm Pin Type Lugs",
+        "price": 4.18,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p176",
+        "name": "Alu.6sqmm Ring Type Lugs",
+        "price": 1.57,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p177",
+        "name": "Alu.6sqmm Ringh Type Lugs",
+        "price": 0,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p178",
+        "name": "Aluminium Extrusion",
+        "price": 0,
+        "unit": "Kg",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p179",
+        "name": "Anchor fasner bolt",
+        "price": 25,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p180",
+        "name": "Arc 330 AMP",
+        "price": 20800,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p181",
+        "name": "B-ARCNO 10 WELDING",
+        "price": 275.5,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p182",
+        "name": "B. ARC NO. 10",
+        "price": 270.36,
+        "unit": "",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p183",
+        "name": "B. ARC NO. 8 WELDING ROD",
+        "price": 320.1,
+        "unit": "Pac",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p184",
+        "name": "BDS 2608577497 (ANNULARCUTTER)",
+        "price": 1900,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p185",
+        "name": "BLUE SILICA GEL (CRYSTEL TYPE) SIZE 8-10MM",
+        "price": 235,
+        "unit": "Kg",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p186",
+        "name": "BOSCH Hand drill machine 600W",
+        "price": 2950,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p187",
+        "name": "BOTTOM HOLDER LF",
+        "price": 25.73,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p188",
+        "name": "BRASS GLAND 01 Hex",
+        "price": 163.2,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p189",
+        "name": "BRASS GLAND 010 Hex",
+        "price": 953.4,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p190",
+        "name": "BRASS GLAND 012 Hex",
+        "price": 1669.2,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p191",
+        "name": "BRASS GLAND 01S Hex",
+        "price": 144,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p192",
+        "name": "BRASS GLAND 02 Hex",
+        "price": 212.4,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p193",
+        "name": "BRASS GLAND 03 Hex",
+        "price": 225.6,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p194",
+        "name": "BRASS GLAND 04 Hex",
+        "price": 230.4,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p195",
+        "name": "BRASS GLAND 05Hex",
+        "price": 358.8,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p196",
+        "name": "BRASS GLAND 06 Hex",
+        "price": 508.8,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p197",
+        "name": "BRASS GLAND 07 Hex",
+        "price": 531.52,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p198",
+        "name": "BRASS GLAND 08 Hex",
+        "price": 665.11,
+        "unit": "Pcs",
+        "category": "Installation Material",
+        "images": [
+            "https://vyapar-catalog.vypcdn.in/product-placeholder.webp"
+        ]
+    },
+    {
+        "id": "p199",
+        "name": "Crimping tools Chakra",
+        "price": 650,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": [
+            "https://vyaparwebsiteimages.vypcdn.in/catalogue/location-new.svg?w=32&q=75"
+        ]
+    },
+    {
+        "id": "p200",
+        "name": "Cu. 10Sqmm lugs Ring type (Dowells make) Non insulated",
+        "price": 4.12,
+        "unit": "Pcs",
+        "category": "Wires & Cables",
+        "images": []
+    },
+    {
+        "id": "p201",
+        "name": "Cu. 50sqmm lugs (Dowells Make)",
+        "price": 60,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": []
+    },
+    {
+        "id": "p202",
+        "name": "Cu. lugs 16sqmm ring",
+        "price": 13.02,
+        "unit": "Nos",
+        "category": "Wires & Cables",
+        "images": []
+    },
+    {
+        "id": "p203",
+        "name": "Cutting Wheel 14\" 355X2.5mm Double Net",
+        "price": 102,
+        "unit": "Pcs",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p204",
+        "name": "D-SHACKLE (6.5 TON)",
+        "price": 450,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p205",
+        "name": "D-SHACLE (09 TON)",
+        "price": 750,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p206",
+        "name": "DB-ANAH-0121 TORQUE WRENCH",
+        "price": 15500,
+        "unit": "Set",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p207",
+        "name": "DBW-01 (Dowells Make)",
+        "price": 311,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p208",
+        "name": "DBW-01S (Dowells Make)",
+        "price": 278,
+        "unit": "Nos",
+        "category": "Electronic Components",
+        "images": []
+    },
+    {
+        "id": "p209",
+        "name": "32A IND.  SOCKET LONG",
+        "price": 120,
+        "unit": "Nos",
+        "category": "General",
+        "images": []
+    }
+
 ]
