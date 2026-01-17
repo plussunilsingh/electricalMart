@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/node_modules/
+.DS_Store
+
+# IntelliJ IDEA specific files
+/.idea/
