@@ -5,10 +5,10 @@
     "price": 1560,
     "category": "Wires & Cables",
     "images": [
+      "assets/products/copper_wire_havells.png",
       "assets/products/wire_electrical_01.jpg",
-      "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg"
+      "assets/products/wire_copper_04.jpg",
+      "assets/products/wire_cable_02.jpg"
     ],
     "description": ""
   },
@@ -18,9 +18,9 @@
     "price": 1.1,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
       "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
@@ -31,10 +31,10 @@
     "price": 2.05,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_terminal_04.jpg"
     ],
     "description": ""
   },
@@ -44,10 +44,10 @@
     "price": 5.09,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -57,10 +57,10 @@
     "price": 3.99,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg"
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -70,9 +70,9 @@
     "price": 4.95,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
       "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
@@ -83,10 +83,10 @@
     "price": 5.09,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
+      "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -96,10 +96,10 @@
     "price": 3.9,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -109,10 +109,10 @@
     "price": 157,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/pvc_sleeve_03.jpg",
+      "assets/products/pvc_marking_sleeve.png",
+      "assets/products/stop_cock_06.jpg",
       "assets/products/cable_marker_04.jpg",
-      "assets/products/shrinkable_05.jpg",
-      "assets/products/stop_cock_06.jpg"
+      "assets/products/heat_shrink_sleeve.png"
     ],
     "description": ""
   },
@@ -122,9 +122,9 @@
     "price": 2.08,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/copper_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
+      "assets/products/lug_copper_03.jpg",
       "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
@@ -135,10 +135,10 @@
     "price": 1.95,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/copper_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -148,10 +148,10 @@
     "price": 1.7,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/insulated_ring_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -161,10 +161,10 @@
     "price": 2947,
     "category": "Wires & Cables",
     "images": [
+      "assets/products/copper_wire_havells.png",
       "assets/products/wire_electrical_01.jpg",
-      "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg"
+      "assets/products/wire_copper_04.jpg",
+      "assets/products/wire_cable_02.jpg"
     ],
     "description": ""
   },
@@ -174,9 +174,9 @@
     "price": 3200,
     "category": "Wires & Cables",
     "images": [
+      "assets/products/flexible_copper_cable.png",
       "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg",
+      "assets/products/wire_electrical_01.jpg",
       "assets/products/cable_coil_05.jpg"
     ],
     "description": ""
@@ -187,10 +187,10 @@
     "price": 130,
     "category": "Cable Ties",
     "images": [
-      "assets/products/zip_tie_03.jpg",
-      "assets/products/cable_strap_04.jpg",
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/nylon_strap_06.jpg",
       "assets/products/tie_wrap_05.jpg",
-      "assets/products/nylon_strap_06.jpg"
+      "assets/products/cable_strap_04.jpg"
     ],
     "description": ""
   },
@@ -200,10 +200,10 @@
     "price": 1200,
     "category": "Lighting",
     "images": [
-      "assets/products/batten_light_06.jpg",
+      "assets/products/flood_light_03.jpg",
+      "assets/products/street_light_04.jpg",
       "assets/products/led_panel_01.jpg",
-      "assets/products/led_bulb_02.jpg",
-      "assets/products/street_light_04.jpg"
+      "assets/products/led_bulb_02.jpg"
     ],
     "description": ""
   },
@@ -213,9 +213,9 @@
     "price": 15,
     "category": "Cable Ties",
     "images": [
-      "assets/products/tie_wrap_05.jpg",
-      "assets/products/nylon_strap_06.jpg",
+      "assets/products/nylon_cable_tie.png",
       "assets/products/cable_tie_01.jpg",
+      "assets/products/zip_tie_03.jpg",
       "assets/products/nylon_tie_02.jpg"
     ],
     "description": ""
@@ -226,8 +226,8 @@
     "price": 42,
     "category": "Switchgear & Protection",
     "images": [
+      "assets/products/hrc_ns_fuse.png",
       "assets/products/fuse_06.jpg",
-      "assets/products/switchgear_panel_01.jpg",
       "assets/products/fuse_box_02.jpg",
       "assets/products/mcb_breaker_03.jpg"
     ],
@@ -239,10 +239,10 @@
     "price": 160,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/switchgear_panel_01.jpg",
+      "assets/products/hrc_ns_fuse.png",
+      "assets/products/fuse_06.jpg",
       "assets/products/fuse_box_02.jpg",
-      "assets/products/mcb_breaker_03.jpg",
-      "assets/products/switchgear_04.jpg"
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -252,10 +252,10 @@
     "price": 1150,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/fuse_box_02.jpg",
-      "assets/products/mcb_breaker_03.jpg",
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg"
+      "assets/products/dc_mccb_schneider.png",
+      "assets/products/switchgear_panel_01.jpg",
+      "assets/products/mccb_05.jpg",
+      "assets/products/switchgear_04.jpg"
     ],
     "description": ""
   },
@@ -265,8 +265,8 @@
     "price": 4.93,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
       "assets/products/lug_terminal_04.jpg"
     ],
@@ -278,10 +278,10 @@
     "price": 0,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_copper_04.jpg",
-      "assets/products/cable_coil_05.jpg",
+      "assets/products/aluminium_wire.png",
       "assets/products/cable_armoured_06.jpg",
-      "assets/products/wire_electrical_01.jpg"
+      "assets/products/cable_coil_05.jpg",
+      "assets/products/wire_industrial_03.jpg"
     ],
     "description": ""
   },
@@ -291,10 +291,10 @@
     "price": 430,
     "category": "Lighting",
     "images": [
-      "assets/products/street_light_04.jpg",
-      "assets/products/batten_light_06.jpg",
       "assets/products/led_panel_01.jpg",
-      "assets/products/led_bulb_02.jpg"
+      "assets/products/batten_light_06.jpg",
+      "assets/products/led_bulb_02.jpg",
+      "assets/products/flood_light_03.jpg"
     ],
     "description": ""
   },
@@ -304,10 +304,10 @@
     "price": 220.1,
     "category": "Lighting",
     "images": [
-      "assets/products/batten_light_06.jpg",
       "assets/products/led_panel_01.jpg",
+      "assets/products/batten_light_06.jpg",
       "assets/products/led_bulb_02.jpg",
-      "assets/products/street_light_04.jpg"
+      "assets/products/flood_light_03.jpg"
     ],
     "description": ""
   },
@@ -317,10 +317,10 @@
     "price": 6.67,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg"
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -330,10 +330,10 @@
     "price": 95,
     "category": "Tools & Hardware",
     "images": [
-      "assets/products/saddle_clamp_02.jpg",
-      "assets/products/gi_saddle_04.jpg",
       "assets/products/hacksaw_01.jpg",
-      "assets/products/saddle_clamp_02.jpg"
+      "assets/products/hardware_tool_03.jpg",
+      "assets/products/saddle_clamp_02.jpg",
+      "assets/products/gi_saddle_04.jpg"
     ],
     "description": ""
   },
@@ -343,10 +343,10 @@
     "price": 24,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/pvc_sleeve_03.jpg",
-      "assets/products/cable_marker_04.jpg",
+      "assets/products/heat_shrink_sleeve.png",
+      "assets/products/heat_shrink_01.jpg",
       "assets/products/shrinkable_05.jpg",
-      "assets/products/stop_cock_06.jpg"
+      "assets/products/pvc_sleeve_03.jpg"
     ],
     "description": ""
   },
@@ -356,10 +356,10 @@
     "price": 122000,
     "category": "Power Generation",
     "images": [
-      "assets/products/diesel_gen_02.jpg",
+      "assets/products/generator_01.jpg",
       "assets/products/generator_3ph_03.jpg",
-      "assets/products/genset_04.jpg",
-      "assets/products/diesel_gen_02.jpg"
+      "assets/products/diesel_gen_02.jpg",
+      "assets/products/genset_04.jpg"
     ],
     "description": ""
   },
@@ -369,8 +369,8 @@
     "price": 22,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
       "assets/products/lug_terminal_04.jpg"
     ],
@@ -382,10 +382,10 @@
     "price": 104.98,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
+      "assets/products/bimetallic_lug.png",
       "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_industrial_05.jpg"
     ],
     "description": ""
   },
@@ -395,10 +395,10 @@
     "price": 22,
     "category": "Cable Ties",
     "images": [
+      "assets/products/nylon_cable_tie.png",
       "assets/products/cable_tie_01.jpg",
-      "assets/products/nylon_tie_02.jpg",
       "assets/products/zip_tie_03.jpg",
-      "assets/products/cable_strap_04.jpg"
+      "assets/products/nylon_tie_02.jpg"
     ],
     "description": ""
   },
@@ -408,10 +408,10 @@
     "price": 40,
     "category": "Cable Ties",
     "images": [
-      "assets/products/nylon_tie_02.jpg",
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/cable_tie_01.jpg",
       "assets/products/zip_tie_03.jpg",
-      "assets/products/cable_strap_04.jpg",
-      "assets/products/tie_wrap_05.jpg"
+      "assets/products/nylon_tie_02.jpg"
     ],
     "description": ""
   },
@@ -421,10 +421,10 @@
     "price": 219,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/bimetallic_lug.png",
+      "assets/products/lug_aluminium_06.jpg",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg"
+      "assets/products/lug_industrial_05.jpg"
     ],
     "description": ""
   },
@@ -434,10 +434,10 @@
     "price": 55,
     "category": "Cable Ties",
     "images": [
-      "assets/products/cable_strap_04.jpg",
-      "assets/products/tie_wrap_05.jpg",
-      "assets/products/nylon_strap_06.jpg",
-      "assets/products/cable_tie_01.jpg"
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/cable_tie_01.jpg",
+      "assets/products/zip_tie_03.jpg",
+      "assets/products/nylon_tie_02.jpg"
     ],
     "description": ""
   },
@@ -447,10 +447,10 @@
     "price": 510,
     "category": "Lighting",
     "images": [
-      "assets/products/street_light_04.jpg",
-      "assets/products/batten_light_06.jpg",
       "assets/products/led_panel_01.jpg",
-      "assets/products/led_bulb_02.jpg"
+      "assets/products/batten_light_06.jpg",
+      "assets/products/led_bulb_02.jpg",
+      "assets/products/flood_light_03.jpg"
     ],
     "description": ""
   },
@@ -460,10 +460,10 @@
     "price": 240.29,
     "category": "Lighting",
     "images": [
-      "assets/products/batten_light_06.jpg",
       "assets/products/led_panel_01.jpg",
+      "assets/products/batten_light_06.jpg",
       "assets/products/led_bulb_02.jpg",
-      "assets/products/street_light_04.jpg"
+      "assets/products/flood_light_03.jpg"
     ],
     "description": ""
   },
@@ -473,10 +473,10 @@
     "price": 90,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_electrical_01.jpg",
-      "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg"
+      "assets/products/armoured_cable.png",
+      "assets/products/cable_armoured_06.jpg",
+      "assets/products/aluminium_wire.png",
+      "assets/products/cable_coil_05.jpg"
     ],
     "description": ""
   },
@@ -486,9 +486,9 @@
     "price": 118,
     "category": "Wires & Cables",
     "images": [
+      "assets/products/flexible_copper_cable.png",
       "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg",
+      "assets/products/wire_electrical_01.jpg",
       "assets/products/cable_coil_05.jpg"
     ],
     "description": ""
@@ -499,10 +499,10 @@
     "price": 50,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
+      "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -512,10 +512,10 @@
     "price": 70,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/socket_32a_04.jpg",
-      "assets/products/extension_05.jpg",
+      "assets/products/industrial_plug_01.jpg",
+      "assets/products/plug_16a_03.jpg",
       "assets/products/connector_06.jpg",
-      "assets/products/industrial_plug_01.jpg"
+      "assets/products/socket_panel_02.jpg"
     ],
     "description": ""
   },
@@ -525,10 +525,10 @@
     "price": 60,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/extension_05.jpg",
+      "assets/products/socket_panel_02.jpg",
+      "assets/products/socket_32a_04.jpg",
       "assets/products/connector_06.jpg",
-      "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg"
+      "assets/products/industrial_plug_01.jpg"
     ],
     "description": ""
   },
@@ -538,10 +538,10 @@
     "price": 0,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/connector_06.jpg",
       "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg",
-      "assets/products/plug_16a_03.jpg"
+      "assets/products/plug_16a_03.jpg",
+      "assets/products/connector_06.jpg",
+      "assets/products/socket_panel_02.jpg"
     ],
     "description": ""
   },
@@ -552,9 +552,9 @@
     "category": "Sockets & Plugs",
     "images": [
       "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg",
       "assets/products/plug_16a_03.jpg",
-      "assets/products/socket_32a_04.jpg"
+      "assets/products/connector_06.jpg",
+      "assets/products/socket_panel_02.jpg"
     ],
     "description": ""
   },
@@ -564,10 +564,10 @@
     "price": 0,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -577,10 +577,10 @@
     "price": 42,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/mcb_breaker_03.jpg",
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg",
-      "assets/products/fuse_06.jpg"
+      "assets/products/hrc_ns_fuse.png",
+      "assets/products/fuse_06.jpg",
+      "assets/products/fuse_box_02.jpg",
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -590,10 +590,10 @@
     "price": 160,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg",
+      "assets/products/hrc_ns_fuse.png",
       "assets/products/fuse_06.jpg",
-      "assets/products/switchgear_panel_01.jpg"
+      "assets/products/fuse_box_02.jpg",
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -603,10 +603,10 @@
     "price": 0,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/copper_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -616,10 +616,10 @@
     "price": 80,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/connector_06.jpg",
-      "assets/products/industrial_plug_01.jpg",
       "assets/products/socket_panel_02.jpg",
-      "assets/products/plug_16a_03.jpg"
+      "assets/products/socket_32a_04.jpg",
+      "assets/products/connector_06.jpg",
+      "assets/products/industrial_plug_01.jpg"
     ],
     "description": ""
   },
@@ -629,9 +629,9 @@
     "price": 1150,
     "category": "Switchgear & Protection",
     "images": [
+      "assets/products/dc_mccb_schneider.png",
       "assets/products/switchgear_panel_01.jpg",
-      "assets/products/fuse_box_02.jpg",
-      "assets/products/mcb_breaker_03.jpg",
+      "assets/products/mccb_05.jpg",
       "assets/products/switchgear_04.jpg"
     ],
     "description": ""
@@ -642,10 +642,10 @@
     "price": 3.4,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
+      "assets/products/copper_ring_lug.png",
+      "assets/products/lug_ring_01.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_terminal_04.jpg"
     ],
     "description": ""
   },
@@ -655,10 +655,10 @@
     "price": 0,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg",
+      "assets/products/aluminium_wire.png",
+      "assets/products/cable_armoured_06.jpg",
       "assets/products/cable_coil_05.jpg",
-      "assets/products/cable_armoured_06.jpg"
+      "assets/products/wire_industrial_03.jpg"
     ],
     "description": ""
   },
@@ -668,10 +668,10 @@
     "price": 7.75,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_terminal_04.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_terminal_04.jpg"
     ],
     "description": ""
   },
@@ -681,10 +681,10 @@
     "price": 118.41,
     "category": "Lighting",
     "images": [
-      "assets/products/led_panel_01.jpg",
       "assets/products/led_bulb_02.jpg",
-      "assets/products/street_light_04.jpg",
-      "assets/products/batten_light_06.jpg"
+      "assets/products/led_panel_01.jpg",
+      "assets/products/batten_light_06.jpg",
+      "assets/products/led_strip_05.jpg"
     ],
     "description": ""
   },
@@ -694,10 +694,10 @@
     "price": 110.68,
     "category": "Cable Glands",
     "images": [
-      "assets/products/gland_brass_04.jpg",
+      "assets/products/brass_cable_gland.png",
       "assets/products/brass_gland_01.jpg",
-      "assets/products/cable_gland_02.jpg",
-      "assets/products/gland_brass_04.jpg"
+      "assets/products/gland_brass_04.jpg",
+      "assets/products/gland_dc_03.jpg"
     ],
     "description": ""
   },
@@ -707,10 +707,10 @@
     "price": 0.45,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/insulated_ring_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -720,10 +720,10 @@
     "price": 350,
     "category": "Sockets & Plugs",
     "images": [
+      "assets/products/extension_05.jpg",
       "assets/products/socket_panel_02.jpg",
-      "assets/products/plug_16a_03.jpg",
-      "assets/products/socket_32a_04.jpg",
-      "assets/products/extension_05.jpg"
+      "assets/products/extension_board_03.jpg",
+      "assets/products/db_panel_02.jpg"
     ],
     "description": ""
   },
@@ -733,10 +733,10 @@
     "price": 2008,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_industrial_03.jpg",
+      "assets/products/copper_wire_havells.png",
+      "assets/products/wire_electrical_01.jpg",
       "assets/products/wire_copper_04.jpg",
-      "assets/products/cable_coil_05.jpg",
-      "assets/products/cable_armoured_06.jpg"
+      "assets/products/wire_cable_02.jpg"
     ],
     "description": ""
   },
@@ -746,10 +746,10 @@
     "price": 1.9,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/insulated_ring_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_copper_03.jpg"
     ],
     "description": ""
   },
@@ -759,10 +759,10 @@
     "price": 27.78,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/cable_coil_05.jpg",
-      "assets/products/cable_armoured_06.jpg",
+      "assets/products/flexible_copper_cable.png",
+      "assets/products/wire_cable_02.jpg",
       "assets/products/wire_electrical_01.jpg",
-      "assets/products/wire_cable_02.jpg"
+      "assets/products/cable_coil_05.jpg"
     ],
     "description": ""
   },
@@ -772,10 +772,10 @@
     "price": 545,
     "category": "Safety Equipment",
     "images": [
-      "assets/products/safety_gear_04.jpg",
       "assets/products/insulating_mat_02.jpg",
+      "assets/products/safety_gloves_01.jpg",
       "assets/products/safety_gear_04.jpg",
-      "assets/products/insulating_mat_02.jpg"
+      "assets/products/safety_equipment_03.jpg"
     ],
     "description": ""
   },
@@ -785,10 +785,10 @@
     "price": 425,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/heat_shrink_01.jpg",
+      "assets/products/pvc_marking_sleeve.png",
       "assets/products/marking_sleeve_02.jpg",
-      "assets/products/pvc_sleeve_03.jpg",
-      "assets/products/cable_marker_04.jpg"
+      "assets/products/cable_marker_04.jpg",
+      "assets/products/pvc_sleeve_03.jpg"
     ],
     "description": ""
   },
@@ -798,10 +798,10 @@
     "price": 1.98,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/insulated_ring_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_connector_02.jpg"
     ],
     "description": ""
   },
@@ -811,10 +811,10 @@
     "price": 1.7,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/fork_lug.png",
+      "assets/products/insulated_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_copper_03.jpg"
     ],
     "description": ""
   },
@@ -824,10 +824,10 @@
     "price": 3.75,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/insulated_ring_lug.png",
       "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -837,10 +837,10 @@
     "price": 1.9,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg"
+      "assets/products/insulated_ring_lug.png",
+      "assets/products/lug_terminal_04.jpg",
+      "assets/products/insulated_pin_lug.png",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -850,10 +850,10 @@
     "price": 2.05,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
+      "assets/products/copper_ring_lug.png",
+      "assets/products/lug_ring_01.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_terminal_04.jpg"
     ],
     "description": ""
   },
@@ -863,10 +863,10 @@
     "price": 4.78,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_terminal_04.jpg"
     ],
     "description": ""
   },
@@ -876,10 +876,10 @@
     "price": 4680,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_cable_02.jpg",
-      "assets/products/wire_industrial_03.jpg",
+      "assets/products/copper_wire_havells.png",
+      "assets/products/wire_electrical_01.jpg",
       "assets/products/wire_copper_04.jpg",
-      "assets/products/cable_coil_05.jpg"
+      "assets/products/wire_cable_02.jpg"
     ],
     "description": ""
   },
@@ -889,10 +889,10 @@
     "price": 4.41,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
       "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg"
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -902,10 +902,10 @@
     "price": 45,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/cable_marker_04.jpg",
+      "assets/products/heat_shrink_sleeve.png",
+      "assets/products/heat_shrink_01.jpg",
       "assets/products/shrinkable_05.jpg",
-      "assets/products/stop_cock_06.jpg",
-      "assets/products/heat_shrink_01.jpg"
+      "assets/products/pvc_sleeve_03.jpg"
     ],
     "description": ""
   },
@@ -915,8 +915,8 @@
     "price": 122.64,
     "category": "Lighting",
     "images": [
-      "assets/products/street_light_04.jpg",
       "assets/products/batten_light_06.jpg",
+      "assets/products/led_strip_05.jpg",
       "assets/products/led_panel_01.jpg",
       "assets/products/led_bulb_02.jpg"
     ],
@@ -928,10 +928,10 @@
     "price": 0,
     "category": "Cable Ties",
     "images": [
+      "assets/products/nylon_cable_tie.png",
       "assets/products/nylon_strap_06.jpg",
-      "assets/products/cable_tie_01.jpg",
-      "assets/products/nylon_tie_02.jpg",
-      "assets/products/zip_tie_03.jpg"
+      "assets/products/tie_wrap_05.jpg",
+      "assets/products/cable_strap_04.jpg"
     ],
     "description": ""
   },
@@ -941,9 +941,9 @@
     "price": 40,
     "category": "Cable Ties",
     "images": [
-      "assets/products/cable_tie_01.jpg",
-      "assets/products/nylon_tie_02.jpg",
-      "assets/products/zip_tie_03.jpg",
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/nylon_strap_06.jpg",
+      "assets/products/tie_wrap_05.jpg",
       "assets/products/cable_strap_04.jpg"
     ],
     "description": ""
@@ -957,7 +957,7 @@
       "assets/products/saddle_clamp_02.jpg",
       "assets/products/gi_saddle_04.jpg",
       "assets/products/hacksaw_01.jpg",
-      "assets/products/saddle_clamp_02.jpg"
+      "assets/products/hardware_tool_03.jpg"
     ],
     "description": ""
   },
@@ -967,10 +967,10 @@
     "price": 510,
     "category": "Distribution Boards",
     "images": [
-      "assets/products/db_industrial_04.jpg",
-      "assets/products/dist_board_01.jpg",
+      "assets/products/extension_05.jpg",
+      "assets/products/socket_panel_02.jpg",
       "assets/products/extension_board_03.jpg",
-      "assets/products/db_industrial_04.jpg"
+      "assets/products/db_panel_02.jpg"
     ],
     "description": ""
   },
@@ -980,10 +980,10 @@
     "price": 27.24,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/copper_ring_lug.png",
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/bimetallic_lug.png",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -993,10 +993,10 @@
     "price": 0,
     "category": "Cable Ties",
     "images": [
-      "assets/products/tie_wrap_05.jpg",
+      "assets/products/nylon_cable_tie.png",
       "assets/products/nylon_strap_06.jpg",
-      "assets/products/cable_tie_01.jpg",
-      "assets/products/nylon_tie_02.jpg"
+      "assets/products/tie_wrap_05.jpg",
+      "assets/products/cable_strap_04.jpg"
     ],
     "description": ""
   },
@@ -1006,10 +1006,10 @@
     "price": 115.62,
     "category": "Cable Glands",
     "images": [
-      "assets/products/gland_brass_04.jpg",
+      "assets/products/brass_cable_gland.png",
       "assets/products/brass_gland_01.jpg",
-      "assets/products/cable_gland_02.jpg",
-      "assets/products/gland_brass_04.jpg"
+      "assets/products/gland_brass_04.jpg",
+      "assets/products/gland_dc_03.jpg"
     ],
     "description": ""
   },
@@ -1020,7 +1020,7 @@
     "category": "Lighting",
     "images": [
       "assets/products/street_light_04.jpg",
-      "assets/products/batten_light_06.jpg",
+      "assets/products/flood_light_03.jpg",
       "assets/products/led_panel_01.jpg",
       "assets/products/led_bulb_02.jpg"
     ],
@@ -1032,10 +1032,10 @@
     "price": 155.28,
     "category": "Cable Glands",
     "images": [
-      "assets/products/cable_gland_02.jpg",
-      "assets/products/gland_brass_04.jpg",
+      "assets/products/brass_cable_gland.png",
       "assets/products/brass_gland_01.jpg",
-      "assets/products/cable_gland_02.jpg"
+      "assets/products/gland_brass_04.jpg",
+      "assets/products/gland_dc_03.jpg"
     ],
     "description": ""
   },
@@ -1045,10 +1045,10 @@
     "price": 42,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/mcb_breaker_03.jpg",
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg",
-      "assets/products/fuse_06.jpg"
+      "assets/products/hrc_ns_fuse.png",
+      "assets/products/fuse_06.jpg",
+      "assets/products/fuse_box_02.jpg",
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -1058,10 +1058,10 @@
     "price": 160,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg",
+      "assets/products/hrc_ns_fuse.png",
       "assets/products/fuse_06.jpg",
-      "assets/products/switchgear_panel_01.jpg"
+      "assets/products/fuse_box_02.jpg",
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -1071,10 +1071,10 @@
     "price": 385,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/shrinkable_05.jpg",
-      "assets/products/stop_cock_06.jpg",
-      "assets/products/heat_shrink_01.jpg",
-      "assets/products/marking_sleeve_02.jpg"
+      "assets/products/pvc_marking_sleeve.png",
+      "assets/products/marking_sleeve_02.jpg",
+      "assets/products/cable_marker_04.jpg",
+      "assets/products/pvc_sleeve_03.jpg"
     ],
     "description": ""
   },
@@ -1084,9 +1084,9 @@
     "price": 320,
     "category": "Cable Accessories",
     "images": [
-      "assets/products/stop_cock_06.jpg",
-      "assets/products/heat_shrink_01.jpg",
+      "assets/products/pvc_marking_sleeve.png",
       "assets/products/marking_sleeve_02.jpg",
+      "assets/products/cable_marker_04.jpg",
       "assets/products/pvc_sleeve_03.jpg"
     ],
     "description": ""
@@ -1097,9 +1097,9 @@
     "price": 80,
     "category": "Cable Ties",
     "images": [
-      "assets/products/cable_tie_01.jpg",
-      "assets/products/nylon_tie_02.jpg",
-      "assets/products/zip_tie_03.jpg",
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/nylon_strap_06.jpg",
+      "assets/products/tie_wrap_05.jpg",
       "assets/products/cable_strap_04.jpg"
     ],
     "description": "Nylon Cable Tie Length 300x3.6mm"
@@ -1110,10 +1110,10 @@
     "price": 0,
     "category": "Cable Lugs & Connectors",
     "images": [
+      "assets/products/copper_ring_lug.png",
+      "assets/products/bimetallic_lug.png",
       "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg"
+      "assets/products/lug_industrial_05.jpg"
     ],
     "description": ""
   },
@@ -1123,10 +1123,10 @@
     "price": 70,
     "category": "Cable Ties",
     "images": [
-      "assets/products/zip_tie_03.jpg",
-      "assets/products/cable_strap_04.jpg",
+      "assets/products/nylon_cable_tie.png",
+      "assets/products/nylon_strap_06.jpg",
       "assets/products/tie_wrap_05.jpg",
-      "assets/products/nylon_strap_06.jpg"
+      "assets/products/cable_strap_04.jpg"
     ],
     "description": ""
   },
@@ -1136,10 +1136,10 @@
     "price": 780,
     "category": "Lighting",
     "images": [
-      "assets/products/batten_light_06.jpg",
+      "assets/products/street_light_04.jpg",
+      "assets/products/flood_light_03.jpg",
       "assets/products/led_panel_01.jpg",
-      "assets/products/led_bulb_02.jpg",
-      "assets/products/street_light_04.jpg"
+      "assets/products/led_bulb_02.jpg"
     ],
     "description": ""
   },
@@ -1149,10 +1149,10 @@
     "price": 0,
     "category": "Sockets & Plugs",
     "images": [
+      "assets/products/socket_32a_04.jpg",
+      "assets/products/socket_panel_02.jpg",
       "assets/products/extension_05.jpg",
-      "assets/products/connector_06.jpg",
-      "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg"
+      "assets/products/industrial_plug_01.jpg"
     ],
     "description": ""
   },
@@ -1162,10 +1162,10 @@
     "price": 130,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/connector_06.jpg",
       "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg",
-      "assets/products/plug_16a_03.jpg"
+      "assets/products/connector_06.jpg",
+      "assets/products/socket_32a_04.jpg",
+      "assets/products/extension_05.jpg"
     ],
     "description": ""
   },
@@ -1175,10 +1175,10 @@
     "price": 120,
     "category": "Sockets & Plugs",
     "images": [
-      "assets/products/industrial_plug_01.jpg",
+      "assets/products/socket_32a_04.jpg",
       "assets/products/socket_panel_02.jpg",
-      "assets/products/plug_16a_03.jpg",
-      "assets/products/socket_32a_04.jpg"
+      "assets/products/extension_05.jpg",
+      "assets/products/industrial_plug_01.jpg"
     ],
     "description": ""
   },
@@ -1188,10 +1188,10 @@
     "price": 0,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_terminal_04.jpg",
-      "assets/products/lug_ring_01.jpg",
+      "assets/products/copper_ring_lug.png",
       "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg"
+      "assets/products/lug_copper_03.jpg",
+      "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
   },
@@ -1201,10 +1201,10 @@
     "price": 180,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/mcb_breaker_03.jpg",
-      "assets/products/switchgear_04.jpg",
-      "assets/products/mccb_05.jpg",
-      "assets/products/fuse_06.jpg"
+      "assets/products/hrc_ns_fuse.png",
+      "assets/products/fuse_06.jpg",
+      "assets/products/fuse_box_02.jpg",
+      "assets/products/mcb_breaker_03.jpg"
     ],
     "description": ""
   },
@@ -1214,9 +1214,9 @@
     "price": 76,
     "category": "Cable Lugs & Connectors",
     "images": [
-      "assets/products/lug_connector_02.jpg",
-      "assets/products/lug_copper_03.jpg",
+      "assets/products/copper_pin_lug.png",
       "assets/products/lug_terminal_04.jpg",
+      "assets/products/lug_copper_03.jpg",
       "assets/products/lug_ring_01.jpg"
     ],
     "description": ""
@@ -1227,10 +1227,10 @@
     "price": 74,
     "category": "Sockets & Plugs",
     "images": [
+      "assets/products/socket_32a_04.jpg",
+      "assets/products/socket_panel_02.jpg",
       "assets/products/extension_05.jpg",
-      "assets/products/connector_06.jpg",
-      "assets/products/industrial_plug_01.jpg",
-      "assets/products/socket_panel_02.jpg"
+      "assets/products/industrial_plug_01.jpg"
     ],
     "description": ""
   },
@@ -1240,10 +1240,10 @@
     "price": 1150,
     "category": "Switchgear & Protection",
     "images": [
-      "assets/products/fuse_06.jpg",
+      "assets/products/dc_mccb_schneider.png",
       "assets/products/switchgear_panel_01.jpg",
-      "assets/products/fuse_box_02.jpg",
-      "assets/products/mcb_breaker_03.jpg"
+      "assets/products/mccb_05.jpg",
+      "assets/products/switchgear_04.jpg"
     ],
     "description": ""
   },
@@ -1253,10 +1253,10 @@
     "price": 205.55,
     "category": "Cable Glands",
     "images": [
+      "assets/products/brass_cable_gland.png",
       "assets/products/brass_gland_01.jpg",
-      "assets/products/cable_gland_02.jpg",
       "assets/products/gland_brass_04.jpg",
-      "assets/products/brass_gland_01.jpg"
+      "assets/products/gland_dc_03.jpg"
     ],
     "description": ""
   },
@@ -1266,10 +1266,10 @@
     "price": 23230,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_cable_02.jpg",
+      "assets/products/armoured_cable.png",
+      "assets/products/heat_shrink_sleeve.png",
       "assets/products/wire_industrial_03.jpg",
-      "assets/products/wire_copper_04.jpg",
-      "assets/products/cable_coil_05.jpg"
+      "assets/products/flexible_copper_cable.png"
     ],
     "description": ""
   },
@@ -1279,10 +1279,10 @@
     "price": 0,
     "category": "Safety Equipment",
     "images": [
-      "assets/products/insulating_mat_02.jpg",
+      "assets/products/safety_gloves_01.jpg",
       "assets/products/safety_gear_04.jpg",
-      "assets/products/insulating_mat_02.jpg",
-      "assets/products/safety_gear_04.jpg"
+      "assets/products/safety_equipment_03.jpg",
+      "assets/products/insulating_mat_02.jpg"
     ],
     "description": ""
   },
@@ -1292,10 +1292,10 @@
     "price": 8000,
     "category": "Wires & Cables",
     "images": [
-      "assets/products/wire_copper_04.jpg",
-      "assets/products/cable_coil_05.jpg",
-      "assets/products/cable_armoured_06.jpg",
-      "assets/products/wire_electrical_01.jpg"
+      "assets/products/flexible_copper_cable.png",
+      "assets/products/wire_cable_02.jpg",
+      "assets/products/wire_electrical_01.jpg",
+      "assets/products/cable_coil_05.jpg"
     ],
     "description": ""
   }
