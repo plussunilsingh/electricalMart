@@ -10,21 +10,24 @@ export const APP_CONFIG = {
     accent: "#ff5722", // Energy Orange
   },
   logoPath: "/assets/logo.svg",
-  defaultImageFallback: "https://vyapar-catalog.vypcdn.in/product-placeholder.webp",
+  defaultImageFallback: `${import.meta.env?.BASE_URL || '/'}assets/products/placeholder.svg`,
   seoDefaults: {
     title: "Electrical Mart - Industrial & Safety Supplies",
     description: "Affordable electrical and safety products for businesses. Quality wires, cables, safety gear, and more.",
     keywords: "electrical mart, industrial safety, wires cables, electrical supplies india",
   },
   categories: [
-    "Electrical Items",
-    "Electronic Components",
-    "Safety Equipment",
     "Wires & Cables",
-    "Distribution",
-    "Installation Material",
+    "Cable Lugs & Connectors",
+    "Switchgear & Protection",
     "Lighting",
-    "Tools",
-    "Others"
+    "Sockets & Plugs",
+    "Cable Glands",
+    "Cable Ties",
+    "Cable Accessories",
+    "Safety Equipment",
+    "Distribution Boards",
+    "Power Generation",
+    "Tools & Hardware"
   ]
 };
