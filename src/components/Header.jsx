@@ -23,7 +23,7 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
+          <Link to="/" onClick={() => setSearchQuery('')} className="flex items-center space-x-2">
             <div className="bg-primary p-1.5 rounded-lg shadow-md">
               <Zap className="text-secondary w-6 h-6" />
             </div>

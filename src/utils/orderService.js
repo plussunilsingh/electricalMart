@@ -14,7 +14,7 @@ class WhatsAppStrategy extends OrderStrategy {
     let message = `*Order from ${APP_CONFIG.websiteName}*\n\n`;
     cart.forEach((item, index) => {
       message += `${index + 1}. *${item.name}*\n`;
-      message += `   Qty: ${item.quantity} ${item.unit}\n`;
+      message += `   Qty: ${item.quantity} ${item.unit || 'pcs'}\n`;
       message += `   Price: ${APP_CONFIG.currencySymbol}${item.price.toLocaleString()}\n\n`;
     });
     message += `*Total Amount: ${APP_CONFIG.currencySymbol}${total.toLocaleString()}*\n\n`;
@@ -31,7 +31,7 @@ class EmailStrategy extends OrderStrategy {
     let body = `Hello,\n\nI would like to place an order for the following items:\n\n`;
     
     cart.forEach((item, index) => {
-      body += `${index + 1}. ${item.name} (Qty: ${item.quantity} ${item.unit})\n`;
+      body += `${index + 1}. ${item.name} (Qty: ${item.quantity} ${item.unit || 'pcs'})\n`;
     });
     
     body += `\nTotal Estimated Amount: ${APP_CONFIG.currencySymbol}${total.toLocaleString()}\n\n`;
