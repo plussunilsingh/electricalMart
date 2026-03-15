@@ -68,6 +68,8 @@ const ProductDetailsPage = () => {
               src={currentImage} 
               alt={product.name} 
               className="w-full h-full object-contain mix-blend-multiply transition-all duration-500"
+              fetchPriority="high"
+              decoding="async"
               referrerPolicy="no-referrer"
               crossOrigin="anonymous"
               onError={(e) => {
@@ -88,6 +90,8 @@ const ProductDetailsPage = () => {
                   src={resolveImagePath(img)} 
                   alt={`${product.name} ${index + 1}`} 
                   className="w-full h-full object-contain mix-blend-multiply"
+                  loading="lazy"
+                  decoding="async"
                   referrerPolicy="no-referrer"
                   crossOrigin="anonymous"
                   onError={(e) => {

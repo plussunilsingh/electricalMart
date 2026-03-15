@@ -55,6 +55,7 @@ const ProductCard = ({ product }) => {
           alt={product.name}
           className="w-full h-full object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500"
           loading="lazy"
+          decoding="async"
           referrerPolicy="no-referrer"
           crossOrigin="anonymous"
           onError={(e) => {
