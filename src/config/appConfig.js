@@ -1,7 +1,7 @@
 export const APP_CONFIG = {
-  websiteName: "Electrical Mart",
-  businessEmail: "sales@electricalmart.in",
-  whatsAppNumber: "919876543210", // Example Indian number
+  websiteName: "Devendra Electricals",
+  businessEmail: "sales@develectricals.com",
+  whatsAppNumber: "+919759111017", // Example Indian number
   currency: "INR",
   currencySymbol: "₹",
   brandColors: {
@@ -12,9 +12,9 @@ export const APP_CONFIG = {
   logoPath: "/assets/logo.svg",
   defaultImageFallback: `${import.meta.env?.BASE_URL || '/'}assets/products/placeholder.svg`,
   seoDefaults: {
-    title: "Electrical Mart - Industrial & Safety Supplies",
+    title: "Dev Electricals - Industrial & Safety Supplies",
     description: "Affordable electrical and safety products for businesses. Quality wires, cables, safety gear, and more.",
-    keywords: "electrical mart, industrial safety, wires cables, electrical supplies india",
+    keywords: "dev electricals, devendra electrical, electrical mart, industrial safety, wires cables, electrical supplies india",
   },
   categories: [
     "Wires & Cables",
