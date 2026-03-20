@@ -1,4 +1,4 @@
-import{c as m,A as a}from"./index-DQb8eNG_.js";/**
+import{c as m,A as a}from"./index-6GbVDB8u.js";/**
  * @license lucide-react v0.562.0 - ISC
  *
  * This source code is licensed under the ISC license.
@@ -11,19 +11,19 @@ import{c as m,A as a}from"./index-DQb8eNG_.js";/**
  */const y=[["path",{d:"M22 17a2 2 0 0 1-2 2H6.828a2 2 0 0 0-1.414.586l-2.202 2.202A.71.71 0 0 1 2 21.286V5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2z",key:"18887p"}]],h=m("message-square",y);class d{formatMessage(e,s){throw new Error("Method formatMessage must be implemented")}}class $ extends d{formatMessage(e,s){let t=`*Order from ${a.websiteName}*
 
 `;e.forEach((r,c)=>{t+=`${c+1}. *${r.name}*
-`,t+=`   Qty: ${r.quantity} ${r.unit}
+`,t+=`   Qty: ${r.quantity} ${r.unit||"pcs"}
 `,t+=`   Price: ${a.currencySymbol}${r.price.toLocaleString()}
 
 `}),t+=`*Total Amount: ${a.currencySymbol}${s.toLocaleString()}*
 
-`,t+="Please confirm availability and delivery time.";const o=encodeURIComponent(t);return`https://wa.me/${a.whatsAppNumber}?text=${o}`}}class g extends d{formatMessage(e,s){let t=`Order Summary - ${a.websiteName}`,o=`Hello,
+`,t+="Please confirm availability and delivery time.";const o=encodeURIComponent(t);return`https://wa.me/${a.whatsAppNumber}?text=${o}`}}class p extends d{formatMessage(e,s){let t=`Order Summary - ${a.websiteName}`,o=`Hello,
 
 I would like to place an order for the following items:
 
-`;e.forEach((l,i)=>{o+=`${i+1}. ${l.name} (Qty: ${l.quantity} ${l.unit})
+`;e.forEach((l,i)=>{o+=`${i+1}. ${l.name} (Qty: ${l.quantity} ${l.unit||"pcs"})
 `}),o+=`
 Total Estimated Amount: ${a.currencySymbol}${s.toLocaleString()}
 
 `,o+=`Please contact me for further details.
 
-Thank you.`;const r=encodeURIComponent(t),c=encodeURIComponent(o);return`mailto:${a.businessEmail}?subject=${r}&body=${c}`}}const b={getWhatsAppLink:(n,e)=>new $().formatMessage(n,e),getEmailLink:(n,e)=>new g().formatMessage(n,e)};export{f as A,h as M,b as o};
+Thank you.`;const r=encodeURIComponent(t),c=encodeURIComponent(o);return`mailto:${a.businessEmail}?subject=${r}&body=${c}`}}const b={getWhatsAppLink:(n,e)=>new $().formatMessage(n,e),getEmailLink:(n,e)=>new p().formatMessage(n,e)};export{f as A,h as M,b as o};

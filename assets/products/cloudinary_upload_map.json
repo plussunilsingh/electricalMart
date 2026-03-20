@@ -1,0 +1,234 @@
+{
+  "Wires & Cables": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/wire_electrical_01.jpg",
+      "cloudinaryPath": "electricalMart/products/wire_electrical_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/wire_cable_02.jpg",
+      "cloudinaryPath": "electricalMart/products/wire_cable_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/wire_industrial_03.jpg",
+      "cloudinaryPath": "electricalMart/products/wire_industrial_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/wire_copper_04.jpg",
+      "cloudinaryPath": "electricalMart/products/wire_copper_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_coil_05.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_coil_05.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_armoured_06.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_armoured_06.jpg"
+    }
+  ],
+  "Cable Lugs & Connectors": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/lug_ring_01.jpg",
+      "cloudinaryPath": "electricalMart/products/lug_ring_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/lug_connector_02.jpg",
+      "cloudinaryPath": "electricalMart/products/lug_connector_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/lug_copper_03.jpg",
+      "cloudinaryPath": "electricalMart/products/lug_copper_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/lug_terminal_04.jpg",
+      "cloudinaryPath": "electricalMart/products/lug_terminal_04.jpg"
+    }
+  ],
+  "Switchgear & Protection": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/switchgear_panel_01.jpg",
+      "cloudinaryPath": "electricalMart/products/switchgear_panel_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/fuse_box_02.jpg",
+      "cloudinaryPath": "electricalMart/products/fuse_box_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/mcb_breaker_03.jpg",
+      "cloudinaryPath": "electricalMart/products/mcb_breaker_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/switchgear_04.jpg",
+      "cloudinaryPath": "electricalMart/products/switchgear_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/mccb_05.jpg",
+      "cloudinaryPath": "electricalMart/products/mccb_05.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/fuse_06.jpg",
+      "cloudinaryPath": "electricalMart/products/fuse_06.jpg"
+    }
+  ],
+  "Lighting": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/led_panel_01.jpg",
+      "cloudinaryPath": "electricalMart/products/led_panel_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/led_bulb_02.jpg",
+      "cloudinaryPath": "electricalMart/products/led_bulb_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/street_light_04.jpg",
+      "cloudinaryPath": "electricalMart/products/street_light_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/batten_light_06.jpg",
+      "cloudinaryPath": "electricalMart/products/batten_light_06.jpg"
+    }
+  ],
+  "Sockets & Plugs": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/industrial_plug_01.jpg",
+      "cloudinaryPath": "electricalMart/products/industrial_plug_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/socket_panel_02.jpg",
+      "cloudinaryPath": "electricalMart/products/socket_panel_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/plug_16a_03.jpg",
+      "cloudinaryPath": "electricalMart/products/plug_16a_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/socket_32a_04.jpg",
+      "cloudinaryPath": "electricalMart/products/socket_32a_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/extension_05.jpg",
+      "cloudinaryPath": "electricalMart/products/extension_05.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/connector_06.jpg",
+      "cloudinaryPath": "electricalMart/products/connector_06.jpg"
+    }
+  ],
+  "Cable Glands": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/brass_gland_01.jpg",
+      "cloudinaryPath": "electricalMart/products/brass_gland_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_gland_02.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_gland_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/gland_brass_04.jpg",
+      "cloudinaryPath": "electricalMart/products/gland_brass_04.jpg"
+    }
+  ],
+  "Cable Ties": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_tie_01.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_tie_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/nylon_tie_02.jpg",
+      "cloudinaryPath": "electricalMart/products/nylon_tie_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/zip_tie_03.jpg",
+      "cloudinaryPath": "electricalMart/products/zip_tie_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_strap_04.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_strap_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/tie_wrap_05.jpg",
+      "cloudinaryPath": "electricalMart/products/tie_wrap_05.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/nylon_strap_06.jpg",
+      "cloudinaryPath": "electricalMart/products/nylon_strap_06.jpg"
+    }
+  ],
+  "Cable Accessories": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/heat_shrink_01.jpg",
+      "cloudinaryPath": "electricalMart/products/heat_shrink_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/marking_sleeve_02.jpg",
+      "cloudinaryPath": "electricalMart/products/marking_sleeve_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/pvc_sleeve_03.jpg",
+      "cloudinaryPath": "electricalMart/products/pvc_sleeve_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/cable_marker_04.jpg",
+      "cloudinaryPath": "electricalMart/products/cable_marker_04.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/shrinkable_05.jpg",
+      "cloudinaryPath": "electricalMart/products/shrinkable_05.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/stop_cock_06.jpg",
+      "cloudinaryPath": "electricalMart/products/stop_cock_06.jpg"
+    }
+  ],
+  "Safety Equipment": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/insulating_mat_02.jpg",
+      "cloudinaryPath": "electricalMart/products/insulating_mat_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/safety_gear_04.jpg",
+      "cloudinaryPath": "electricalMart/products/safety_gear_04.jpg"
+    }
+  ],
+  "Distribution Boards": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/dist_board_01.jpg",
+      "cloudinaryPath": "electricalMart/products/dist_board_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/extension_board_03.jpg",
+      "cloudinaryPath": "electricalMart/products/extension_board_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/db_industrial_04.jpg",
+      "cloudinaryPath": "electricalMart/products/db_industrial_04.jpg"
+    }
+  ],
+  "Power Generation": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/diesel_gen_02.jpg",
+      "cloudinaryPath": "electricalMart/products/diesel_gen_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/generator_3ph_03.jpg",
+      "cloudinaryPath": "electricalMart/products/generator_3ph_03.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/genset_04.jpg",
+      "cloudinaryPath": "electricalMart/products/genset_04.jpg"
+    }
+  ],
+  "Tools & Hardware": [
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/hacksaw_01.jpg",
+      "cloudinaryPath": "electricalMart/products/hacksaw_01.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/saddle_clamp_02.jpg",
+      "cloudinaryPath": "electricalMart/products/saddle_clamp_02.jpg"
+    },
+    {
+      "localFile": "/Users/suniltomar/Desktop/workspace/electricalMart/public/assets/products/gi_saddle_04.jpg",
+      "cloudinaryPath": "electricalMart/products/gi_saddle_04.jpg"
+    }
+  ]
+}
