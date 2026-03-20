@@ -24,6 +24,14 @@ const BadgeFactory = ({ category }) => {
   );
 };
 
+
+// Resolve local asset paths relative to base URL (supports Vite BASE_URL for GitHub Pages)
+const resolveImagePath = (img) => {
+  if (!img) return APP_CONFIG.defaultImageFallback;
+  if (img.startsWith('http')) return img;
+  return `${import.meta.env.BASE_URL}${img}`;
+};
+
 const ProductCard = ({ product }) => {
   const { addToCart } = useCart();
   const [isAdded, setIsAdded] = useState(false);
@@ -36,9 +44,8 @@ const ProductCard = ({ product }) => {
     setTimeout(() => setIsAdded(false), 2000);
   };
 
-  const imageSrc = product.images.length > 0 && product.images[0] 
-    ? product.images[0] 
-    : APP_CONFIG.defaultImageFallback;
+  const imageSrc = resolveImagePath(product.images?.[0]) || APP_CONFIG.defaultImageFallback;
+
 
   return (
     <Link to={`/product/${product.id}`} className="card-premium group">
@@ -48,6 +55,9 @@ const ProductCard = ({ product }) => {
           alt={product.name}
           className="w-full h-full object-contain mix-blend-multiply group-hover:scale-110 transition-transform duration-500"
           loading="lazy"
+          decoding="async"
+          referrerPolicy="no-referrer"
+          crossOrigin="anonymous"
           onError={(e) => {
             e.target.src = APP_CONFIG.defaultImageFallback;
             e.target.onerror = null;

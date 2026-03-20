@@ -6,6 +6,13 @@ import productsData from '../data/products.json';
 import { APP_CONFIG } from '../config/appConfig';
 import { orderService } from '../utils/orderService';
 
+// Resolve local asset paths relative to Vite BASE_URL
+const resolveImagePath = (img) => {
+  if (!img) return APP_CONFIG.defaultImageFallback;
+  if (img.startsWith('http')) return img;
+  return `${import.meta.env.BASE_URL}${img}`;
+};
+
 const ProductDetailsPage = () => {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -40,7 +47,7 @@ const ProductDetailsPage = () => {
     ? product.images 
     : [APP_CONFIG.defaultImageFallback];
 
-  const currentImage = productImages[activeImage] || productImages[0];
+  const currentImage = resolveImagePath(productImages[activeImage] || productImages[0]);
 
   return (
     <div className="max-w-6xl mx-auto py-8">
@@ -61,6 +68,10 @@ const ProductDetailsPage = () => {
               src={currentImage} 
               alt={product.name} 
               className="w-full h-full object-contain mix-blend-multiply transition-all duration-500"
+              fetchPriority="high"
+              decoding="async"
+              referrerPolicy="no-referrer"
+              crossOrigin="anonymous"
               onError={(e) => {
                 e.target.src = APP_CONFIG.defaultImageFallback;
                 e.target.onerror = null;
@@ -76,9 +87,13 @@ const ProductDetailsPage = () => {
                 className={`aspect-square rounded-xl bg-gray-50 border-2 flex items-center justify-center p-2 cursor-pointer transition-all ${activeImage === index ? 'border-primary bg-white shadow-sm' : 'border-transparent opacity-60 hover:opacity-100'}`}
               >
                 <img 
-                  src={img} 
+                  src={resolveImagePath(img)} 
                   alt={`${product.name} ${index + 1}`} 
-                  className="w-full h-full object-contain mix-blend-multiply" 
+                  className="w-full h-full object-contain mix-blend-multiply"
+                  loading="lazy"
+                  decoding="async"
+                  referrerPolicy="no-referrer"
+                  crossOrigin="anonymous"
                   onError={(e) => {
                     e.target.src = APP_CONFIG.defaultImageFallback;
                     e.target.onerror = null;
