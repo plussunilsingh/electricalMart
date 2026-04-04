@@ -20,6 +20,22 @@ export const APP_CONFIG = {
     url: 'https://powermartonline.com',
     image: 'https://powermartonline.com/assets/logo.svg',
   },
+  physicalAddress: 'Uttar Pradesh, India',
+  businessHours: [
+    'Monday - Friday: 9:00 AM - 7:00 PM',
+    'Saturday: 10:00 AM - 5:00 PM',
+    'Sunday: Closed',
+  ],
+  socialLinks: {
+    facebook: 'https://facebook.com/powermartonline',
+    twitter: 'https://twitter.com/powermartonline',
+    instagram: 'https://instagram.com/powermartonline',
+  },
+  legalLinks: {
+    privacy: '/privacy-policy',
+    terms: '/terms-of-service',
+    refund: '/refund-policy',
+  },
   categories: [
     'Wires & Cables',
     'Cable Lugs & Connectors',

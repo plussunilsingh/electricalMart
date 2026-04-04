@@ -18,13 +18,13 @@ const Footer = () => {
               Built on trust, quality, and service.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="hover:text-primary transition-colors">
+              <a href={APP_CONFIG.socialLinks.facebook} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
                 <Facebook size={20} />
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a href={APP_CONFIG.socialLinks.twitter} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a href={APP_CONFIG.socialLinks.instagram} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
                 <Instagram size={20} />
               </a>
             </div>
@@ -53,9 +53,9 @@ const Footer = () => {
               Business Hours
             </h4>
             <ul className="space-y-2 text-sm">
-              <li>Monday - Friday: 9:00 AM - 7:00 PM</li>
-              <li>Saturday: 10:00 AM - 5:00 PM</li>
-              <li>Sunday: Closed</li>
+              {APP_CONFIG.businessHours.map((hours, i) => (
+                <li key={i}>{hours}</li>
+              ))}
             </ul>
           </div>
 
@@ -67,7 +67,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="text-primary flex-shrink-0" />
-                <span>Uttar Pradesh, India</span>
+                <span>{APP_CONFIG.physicalAddress}</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={18} className="text-primary flex-shrink-0" />
@@ -86,13 +86,13 @@ const Footer = () => {
             © {new Date().getFullYear()} {APP_CONFIG.websiteName}. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
-            <a href="#" className="hover:text-white">
+            <a href={APP_CONFIG.legalLinks.privacy} className="hover:text-white">
               Privacy Policy
             </a>
-            <a href="#" className="hover:text-white">
+            <a href={APP_CONFIG.legalLinks.terms} className="hover:text-white">
               Terms of Service
             </a>
-            <a href="#" className="hover:text-white">
+            <a href={APP_CONFIG.legalLinks.refund} className="hover:text-white">
               Refund Policy
             </a>
           </div>
