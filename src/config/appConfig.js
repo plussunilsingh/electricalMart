@@ -1,6 +1,6 @@
 export const APP_CONFIG = {
-  websiteName: "Devendra Electricals",
-  businessEmail: "sales@develectricals.com",
+  websiteName: "Power Mart Online",
+  businessEmail: "sales@powermartonline.com",
   whatsAppNumber: "+919759111017", // Example Indian number
   currency: "INR",
   currencySymbol: "₹",
@@ -12,9 +12,9 @@ export const APP_CONFIG = {
   logoPath: "/assets/logo.svg",
   defaultImageFallback: `${import.meta.env?.BASE_URL || '/'}assets/products/placeholder.svg`,
   seoDefaults: {
-    title: "Dev Electricals - Industrial & Safety Supplies",
+    title: "Power mart online - Industrial & Safety Supplies",
     description: "Affordable electrical and safety products for businesses. Quality wires, cables, safety gear, and more.",
-    keywords: "dev electricals, devendra electrical, electrical mart, industrial safety, wires cables, electrical supplies india",
+    keywords: "Power mart online, power mart, power online, electrical,electricals, Grid solution, Wire, Lug,  industrial safety, wires cables, electrical supplies india",
   },
   categories: [
     "Wires & Cables",

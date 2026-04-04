@@ -197,7 +197,12 @@ const ProductDetailsPage = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <div className="bg-orange-50 text-orange-600 p-2 rounded-lg"><Mail size={18} /></div>
-                <span className="text-sm font-semibold">Help Support</span>
+                <div className="flex flex-col">
+                  <span className="text-sm font-semibold">Help Support</span>
+                  <a href={`mailto:${APP_CONFIG.businessEmail}`} className="text-xs text-secondary hover:text-primary hover:underline transition-colors mt-0.5">
+                    {APP_CONFIG.businessEmail}
+                  </a>
+                </div>
               </div>
             </div>
           </div>
