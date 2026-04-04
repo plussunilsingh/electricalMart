@@ -57,3 +57,29 @@ To aggressively dominate the B2B wholesale visibility market, follow this roadma
 ## 7. Critical Workflows
 - **WhatsApp Order Pipeline:** All "Add to Cart" or direct orders leverage `src/utils/orderService.js` to pre-fill a dynamic WhatsApp message. Any modification to cart logic MUST ensure the WhatsApp message generation correctly calculates bulk totals and quantities.
 - **Testing Requirements:** We employ strict automated testing to ensure no product or page accidentally 404s. Any new component must be bundled with a `.test.jsx` file checking for render success.
+
+## 8. Autonomous Terminal Commands
+Future AI sub-agents MUST execute the following verification commands autonomously when making codebase alterations. Do NOT ask the user for permission to test your own code.
+
+### A. Testing Protocol
+When altering data (`products.json`) or `appConfig.js`, execute:
+```bash
+npm run test
+```
+*If this fails, revert your changes immediately and fix the missing schema fields.*
+
+### B. Build Validation Protocol
+When altering React components or Vite settings, execute:
+```bash
+npm run build
+```
+*Never push code unless the build step executes cleanly without warnings.*
+
+### C. Performance & SEO Audit Protocol (Lighthouse CI)
+When introducing heavily nested components or changing `index.html` structure:
+```bash
+npm install -g @lhci/cli
+npm run build
+lhci autorun
+```
+*The AI agent is responsible for continuously running Lighthouse and self-healing any new accessibility or performance score drops before finalizing tasks.*
