@@ -1,5 +1,5 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import { CartProvider } from './context/CartContext';
@@ -10,12 +10,9 @@ const ProductDetailsPage = lazy(() => import('./pages/ProductDetailsPage'));
 const CartPage = lazy(() => import('./pages/CartPage'));
 
 const App = () => {
-  // Ensure a sensible default for the Router basename. Vite injects BASE_URL at build.
-  const routerBasename = import.meta.env.BASE_URL || '/';
-
   return (
     <CartProvider>
-      <Router basename={routerBasename}>
+      <Router>
         <div className="flex flex-col min-h-screen bg-gray-50">
           <Header />
           <main className="flex-grow container mx-auto px-4 py-8">
