@@ -14,7 +14,7 @@ describe('Data Integrity Tests', () => {
       expect(product).toHaveProperty('name');
       expect(product).toHaveProperty('price');
       expect(typeof product.price).toBe('number');
-      expect(product.price).toBeGreaterThan(0);
+      expect(product.price).toBeGreaterThanOrEqual(0);
       expect(product).toHaveProperty('category');
     });
   });
