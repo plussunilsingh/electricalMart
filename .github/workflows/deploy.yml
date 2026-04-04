@@ -1,27 +1,58 @@
-name: Deploy to GitHub Pages
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-deploy:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install and Build 🔧
-        run: |
-          npm install
-          npm run build
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
 
-      - name: Deploy 🚀
+      - name: Cache npm
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Determine Vite base
+        id: set_base
+        run: |
+          if [ -f CNAME ] || [ -f public/CNAME ]; then
+            echo "VITE_BASE=/" >> $GITHUB_ENV
+            echo "Found CNAME — using VITE_BASE=/"
+          else
+            echo "VITE_BASE=/electricalMart/" >> $GITHUB_ENV
+            echo "No CNAME — using VITE_BASE=/electricalMart/"
+          fi
+
+      - name: Build
+        run: npm run build
+        env:
+          VITE_BASE: ${{ env.VITE_BASE }}
+
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist
           branch: gh-pages
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
