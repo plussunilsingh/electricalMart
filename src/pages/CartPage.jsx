@@ -76,11 +76,12 @@ const CartPage = () => {
                     </p>
                   </div>
 
-                  <div className="flex items-center space-x-4">
+                    <div className="flex items-center space-x-4">
                     <div className="flex items-center bg-gray-100 rounded-xl p-1">
                       <button 
                         onClick={() => updateQuantity(item.id, item.quantity - 1)}
                         className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-white hover:shadow-sm transition-all"
+                        aria-label="Decrease quantity"
                       >
                         <Minus size={14} />
                       </button>
@@ -88,6 +89,7 @@ const CartPage = () => {
                       <button 
                         onClick={() => updateQuantity(item.id, item.quantity + 1)}
                         className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-white hover:shadow-sm transition-all"
+                        aria-label="Increase quantity"
                       >
                         <Plus size={14} />
                       </button>
@@ -103,6 +105,7 @@ const CartPage = () => {
                     <button 
                       onClick={() => removeFromCart(item.id)}
                       className="p-2 text-gray-300 hover:text-red-500 transition-all hover:bg-red-50 rounded-xl"
+                      aria-label="Remove item"
                     >
                       <Trash2 size={20} />
                     </button>

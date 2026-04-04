@@ -41,6 +41,19 @@ Whenever spinning up new sub-agents for this app, follow these structural plans:
   3. Ensure `.lighthouserc.json` performance assertions pass.
   4. Push to `main` to trigger the `deploy.yml` pipeline.
 
-## 5. Critical Workflows
+## 5. Lighthouse CI Context & Rules
+We employ strict Lighthouse CI gating on deployment (`.lighthouserc.json`). 
+- **Accessibility (>0.8 score):** All icon buttons MUST have `aria-label`s (e.g., Hamburger menus, cart icons, delete buttons). 
+- **SEO (>0.9 score):** Images must have descriptive `alt` tags. All pages must render a single `<h1>`. Semantic hierarchy is strictly enforced.
+- **Performance (>0.8 score):** Images use `mix-blend-multiply` to remove backgrounds rather than importing heavy complex PNGs. Maintain `loading="lazy"` on all `<img />` tags except the hero image.
+*If the `deploy.yml` pipeline fails citing LHCI, the AI agent must investigate accessibility labels or image load sizes immediately.*
+
+## 6. Blueprint: Increasing Customer Visibility 
+To aggressively dominate the B2B wholesale visibility market, follow this roadmap:
+1. **Google My Business (GMB):** Although the site is online, authentic wholesale buyers search strictly via "Electrical Suppliers near me". The business owners *must* claim a physical GMB listing linked to this domain.
+2. **Dynamic OG Meta Tags:** The site is heavily configured for WhatsApp sharing. Every product link shared automatically renders rich image snippets using OpenGraph tags we embedded in `index.html`.
+3. **Structured Data:** Google natively prioritizes our links because we employ `JSON-LD` Scheme. Expanding this schema to individual `Product` snippets (instead of just the `Store`) is the next phase.
+
+## 7. Critical Workflows
 - **WhatsApp Order Pipeline:** All "Add to Cart" or direct orders leverage `src/utils/orderService.js` to pre-fill a dynamic WhatsApp message. Any modification to cart logic MUST ensure the WhatsApp message generation correctly calculates bulk totals and quantities.
 - **Testing Requirements:** We employ strict automated testing to ensure no product or page accidentally 404s. Any new component must be bundled with a `.test.jsx` file checking for render success.
