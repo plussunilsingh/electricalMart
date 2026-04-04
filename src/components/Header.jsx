@@ -47,7 +47,10 @@ const Header = () => {
 
           {/* Actions */}
           <div className="flex items-center space-x-4">
-            <Link to="/cart" className="relative p-2 text-secondary hover:text-primary transition-colors">
+            <Link
+              to="/cart"
+              className="relative p-2 text-secondary hover:text-primary transition-colors"
+            >
               <ShoppingCart className="w-6 h-6" />
               {cartCount > 0 && (
                 <span className="absolute -top-1 -right-1 bg-accent text-white text-[10px] font-bold px-1.5 py-0.5 rounded-full shadow-sm animate-pulse">
@@ -55,8 +58,8 @@ const Header = () => {
                 </span>
               )}
             </Link>
-            
-            <button 
+
+            <button
               className="md:hidden p-2 text-secondary"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
               aria-label="Toggle navigation menu"
@@ -80,15 +83,15 @@ const Header = () => {
               <Search className="absolute left-4 top-3.5 text-gray-400 w-5 h-5" />
             </form>
             <nav className="flex flex-col space-y-2">
-              <Link 
-                to="/" 
+              <Link
+                to="/"
                 className="px-4 py-3 hover:bg-gray-100 rounded-xl transition-colors font-medium"
                 onClick={() => setIsMenuOpen(false)}
               >
                 Home
               </Link>
-              {APP_CONFIG.categories.slice(0, 5).map(cat => (
-                <button 
+              {APP_CONFIG.categories.slice(0, 5).map((cat) => (
+                <button
                   key={cat}
                   className="px-4 py-3 text-left hover:bg-gray-100 rounded-xl transition-colors font-medium"
                   onClick={() => {
