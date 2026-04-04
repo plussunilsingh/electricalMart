@@ -7,5 +7,7 @@
 # IntelliJ IDEA specific files
 /.idea/
 /dist/
+/dist*/
+/.lighthouseci/
 /node-tmp/
 /npm-cache/
