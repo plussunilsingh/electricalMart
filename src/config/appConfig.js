@@ -12,9 +12,11 @@ export const APP_CONFIG = {
   logoPath: "/assets/logo.svg",
   defaultImageFallback: `${import.meta.env?.BASE_URL || '/'}assets/products/placeholder.svg`,
   seoDefaults: {
-    title: "Power mart online - Industrial & Safety Supplies",
-    description: "Affordable electrical and safety products for businesses. Quality wires, cables, safety gear, and more.",
-    keywords: "Power mart online, power mart, power online, electrical,electricals, Grid solution, Wire, Lug,  industrial safety, wires cables, electrical supplies india",
+    title: "Power Mart Online | Wholesale Electrical & Industrial Safety Supplies",
+    description: "Buy premium electrical supplies, wires, heavy duty cables, cable lugs, switchgears, and industrial safety equipment at wholesale prices. Fast delivery across India.",
+    keywords: "power mart online, wholesale electrical supplies india, buy electrical goods online, industrial safety equipment, copper wire, cable lugs, switchgear suppliers, electrical mart, b2b electrical materials, distribution boards",
+    url: "https://powermartonline.com",
+    image: "https://powermartonline.com/assets/logo.svg"
   },
   categories: [
     "Wires & Cables",
