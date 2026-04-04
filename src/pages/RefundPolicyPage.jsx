@@ -18,7 +18,7 @@ const RefundPolicyPage = () => (
       <p>If a refund is legally processed for a B2B transaction where a GST invoice was already filed, credit notes will be issued against your business entity. Funds will be directly reversed to the original corporate bank account within 7-14 business days following warehouse inspection.</p>
       
       <h2 className="text-2xl font-bold text-secondary mt-8">3. How to Initiate</h2>
-      <p>Send a WhatsApp message directly to +{APP_CONFIG.whatsAppNumber} with photographic evidence of the damaged material, and your dedicated wholesale rep will dispatch a return pickup immediately.</p>
+      <p>Send a WhatsApp message directly to {APP_CONFIG.whatsAppNumber} with photographic evidence of the damaged material, and your dedicated wholesale rep will dispatch a return pickup immediately.</p>
     </div>
   </div>
 );
