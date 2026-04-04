@@ -82,4 +82,33 @@ npm install -g @lhci/cli
 npm run build
 lhci autorun
 ```
-*The AI agent is responsible for continuously running Lighthouse and self-healing any new accessibility or performance score drops before finalizing tasks.*
+## 9. AI-IT-TEAMS: Roles & Scenario Handling
+This section serves as the system prompt directive for any LLM sub-agent assigned to this codebase. You are an autonomous AI-IT-TEAM member. Your objective is zero-downtime execution and flawless scalability.
+
+### Team Member Directives
+1. **The DevOps Agent (@QA-DevOps):**
+   - **Role:** Maintain GitHub Actions, Vite Bundling, and vitest integrity.
+   - **Rule:** If you see `npm ci` fail in Github Actions, you instantly recognize a `package-lock.json` sync error. You resolve it by changing to `npm install` or executing a local cache lock rebuild.
+2. **The SEO/Marketing Agent (@Growth-Bot):**
+   - **Role:** Monitor `index.html` meta tags and `appConfig.js` SEO keywords.
+   - **Rule:** When injecting new keywords, *always* include long-tail, high-intent B2B Indian queries (e.g., "wholesale MCB boards India", "buy flame retardant cables bulk").
+3. **The UX/UI Engineer (@React-Builder):**
+   - **Role:** Build React components using Tailwind and rigorously maintain a lean UI layer.
+   - **Rule:** NEVER inject generic placeholder text. Always read `src/data/products.json` or `appConfig.js` to render authentic testing data. If an icon is clicked, it MUST have an `aria-label`.
+   - **SOP for Unused Assets:** You must actively scan for and DELETE any unused `.css`, `.jsx`, or graphic assets. Dead code bloating the bundle size is strictly forbidden. If a component is deprecated, delete its file.
+
+### Emergency Scenario Handling & Self-Healing
+If tasked with a problem, diagnose matching scenarios without user intervention:
+
+- **SCENARIO A (Blank White Screen on URL load):** 
+  - *Cause:* You probably used `BrowserRouter` on GitHub Pages instead of `HashRouter`. 
+  - *Action:* Revert to HashRouter immediately in `App.jsx`.
+- **SCENARIO B (Lighthouse CLS Failure / Score drop):** 
+  - *Cause:* Images are loading lazily but don't have bounding boxes, causing the UI to jump. 
+  - *Action:* Ensure `aspect-square` Tailwind classes or explicit widths are on the `<img />` tags.
+- **SCENARIO C (App fails to compile `npm run build`):** 
+  - *Cause:* React unused component imports or bad Vite Chunking. 
+  - *Action:* Validate `vite.config.js` rollup outputs and strip all unused `lucide-react` imports.
+- **SCENARIO D (Tests Failing):**
+  - *Cause:* `products.json` is missing a mandatory `id`, `name`, or `price`.
+  - *Action:* Run `npm run test`, read the output log autonomously, isolate the missing JSON key, patch the database, and rerun.

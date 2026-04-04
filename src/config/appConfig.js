@@ -14,7 +14,7 @@ export const APP_CONFIG = {
   seoDefaults: {
     title: "Power Mart Online | Wholesale Electrical & Industrial Safety Supplies",
     description: "Buy premium electrical supplies, wires, heavy duty cables, cable lugs, switchgears, and industrial safety equipment at wholesale prices. Fast delivery across India.",
-    keywords: "power mart online, wholesale electrical supplies india, buy electrical goods online, industrial safety equipment, copper wire, cable lugs, switchgear suppliers, electrical mart, b2b electrical materials, distribution boards",
+    keywords: "power mart online, wholesale electrical supplies india, buy electrical goods online, industrial safety equipment, copper wire, cable lugs, switchgear suppliers, electrical mart, b2b electrical materials, distribution boards, LED lighting wholesale, MCCB, RCCB, MCB boards, earthing materials, PVC conduits, electrical panels, contactors, heavy duty relays, solar wires, industrial cable glands, low tension cables, power tools, commercial safety gear, flame retardant cables",
     url: "https://powermartonline.com",
     image: "https://powermartonline.com/assets/logo.svg"
   },
