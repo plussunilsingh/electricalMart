@@ -2,7 +2,9 @@ name: Build and Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main, master ]
+    branches:
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -10,65 +12,47 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-deploy:
+  build-deploy:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Use Node.js 18
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '18'
+
+      - name: Cache npm
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
 
       - name: Install dependencies
         run: npm ci
 
-      - name: Determine VITE_BASE
-        id: setbase
+      - name: Determine Vite base
+        id: set_base
         run: |
-          # If there's a CNAME (either in public/CNAME or repo root CNAME) assume custom domain / user site -> base = '/'
-          if [ -f "public/CNAME" ] || [ -f "CNAME" ]; then
+          if [ -f CNAME ] || [ -f public/CNAME ]; then
             echo "VITE_BASE=/" >> $GITHUB_ENV
-            echo "Detected CNAME; setting VITE_BASE=/"
+            echo "Found CNAME — using VITE_BASE=/"
           else
-            # Use repo name for project pages
-            repo_name="${GITHUB_REPOSITORY##*/}"
-            echo "VITE_BASE=/${repo_name}/" >> $GITHUB_ENV
-            echo "No CNAME found; setting VITE_BASE=/${repo_name}/"
+            echo "VITE_BASE=/electricalMart/" >> $GITHUB_ENV
+            echo "No CNAME — using VITE_BASE=/electricalMart/"
           fi
 
       - name: Build
+        run: npm run build
         env:
           VITE_BASE: ${{ env.VITE_BASE }}
-        run: npm run build
-
-      - name: Ensure CNAME in dist (copy if present)
-        run: |
-          if [ -f "public/CNAME" ]; then
-            cp public/CNAME dist/CNAME
-            echo "Copied public/CNAME to dist/CNAME"
-          elif [ -f "CNAME" ]; then
-            cp CNAME dist/CNAME
-            echo "Copied repo root CNAME to dist/CNAME"
-          else
-            echo "No CNAME to copy"
-          fi
-
-      - name: Add SPA 404 fallback
-        run: |
-          if [ -f dist/index.html ]; then
-            cp dist/index.html dist/404.html
-            echo "Copied dist/index.html to dist/404.html"
-          fi
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: dist
           branch: gh-pages
-          clean: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          folder: dist
+          token: ${{ secrets.GITHUB_TOKEN }}
