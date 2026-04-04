@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react'
 // Make the base configurable via the VITE_BASE env var (useful for custom domains)
 export default defineConfig({
   plugins: [react()],
-  base: process.env.VITE_BASE || '/electricalMart/',
+  base: './',
   server: {
     port: 8000,
   },
