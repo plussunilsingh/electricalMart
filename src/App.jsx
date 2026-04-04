@@ -8,6 +8,9 @@ import { CartProvider } from './context/CartContext';
 const HomePage = lazy(() => import('./pages/HomePage'));
 const ProductDetailsPage = lazy(() => import('./pages/ProductDetailsPage'));
 const CartPage = lazy(() => import('./pages/CartPage'));
+const PrivacyPolicyPage = lazy(() => import('./pages/PrivacyPolicyPage'));
+const TermsOfServicePage = lazy(() => import('./pages/TermsOfServicePage'));
+const RefundPolicyPage = lazy(() => import('./pages/RefundPolicyPage'));
 
 const App = () => {
   return (
@@ -27,6 +30,9 @@ const App = () => {
                 <Route path="/" element={<HomePage />} />
                 <Route path="/product/:id" element={<ProductDetailsPage />} />
                 <Route path="/cart" element={<CartPage />} />
+                <Route path="/privacy-policy" element={<PrivacyPolicyPage />} />
+                <Route path="/terms-of-service" element={<TermsOfServicePage />} />
+                <Route path="/refund-policy" element={<RefundPolicyPage />} />
               </Routes>
             </Suspense>
           </main>

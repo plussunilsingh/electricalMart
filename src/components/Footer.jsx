@@ -1,5 +1,6 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Zap, Facebook, Twitter, Instagram } from 'lucide-react';
+import { Link } from 'react-router-dom';
 import { APP_CONFIG } from '../config/appConfig';
 
 const Footer = () => {
@@ -36,12 +37,12 @@ const Footer = () => {
             <ul className="space-y-2 text-sm">
               {APP_CONFIG.categories.slice(0, 5).map((cat) => (
                 <li key={cat}>
-                  <a
-                    href={`/?category=${encodeURIComponent(cat)}`}
+                  <Link
+                    to={`/?category=${encodeURIComponent(cat)}`}
                     className="hover:text-primary transition-colors"
                   >
                     {cat}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>
@@ -71,7 +72,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={18} className="text-primary flex-shrink-0" />
-                <span>+{APP_CONFIG.whatsAppNumber}</span>
+                <span>{APP_CONFIG.whatsAppNumber}</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={18} className="text-primary flex-shrink-0" />
@@ -86,15 +87,15 @@ const Footer = () => {
             © {new Date().getFullYear()} {APP_CONFIG.websiteName}. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
-            <a href={APP_CONFIG.legalLinks.privacy} className="hover:text-white">
+            <Link to={APP_CONFIG.legalLinks.privacy} className="hover:text-white">
               Privacy Policy
-            </a>
-            <a href={APP_CONFIG.legalLinks.terms} className="hover:text-white">
+            </Link>
+            <Link to={APP_CONFIG.legalLinks.terms} className="hover:text-white">
               Terms of Service
-            </a>
-            <a href={APP_CONFIG.legalLinks.refund} className="hover:text-white">
+            </Link>
+            <Link to={APP_CONFIG.legalLinks.refund} className="hover:text-white">
               Refund Policy
-            </a>
+            </Link>
           </div>
         </div>
       </div>
