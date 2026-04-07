@@ -19,13 +19,28 @@ const Footer = () => {
               Built on trust, quality, and service.
             </p>
             <div className="flex space-x-4">
-              <a href={APP_CONFIG.socialLinks.facebook} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
+              <a
+                href={APP_CONFIG.socialLinks.facebook}
+                className="hover:text-primary transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Facebook size={20} />
               </a>
-              <a href={APP_CONFIG.socialLinks.twitter} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
+              <a
+                href={APP_CONFIG.socialLinks.twitter}
+                className="hover:text-primary transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Twitter size={20} />
               </a>
-              <a href={APP_CONFIG.socialLinks.instagram} className="hover:text-primary transition-colors" target="_blank" rel="noopener noreferrer">
+              <a
+                href={APP_CONFIG.socialLinks.instagram}
+                className="hover:text-primary transition-colors"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <Instagram size={20} />
               </a>
             </div>
